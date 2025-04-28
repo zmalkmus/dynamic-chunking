@@ -8,11 +8,11 @@ import argparse
 
 def combine_timestep_files(input_dir, output_dir):
     """
-    Combines miniAMR dump files (dump_ts*_pe*.bin) into single checkpoint files per timestep.
+    combines miniAMR dump files (dump_ts*_pe*.txt) into single checkpoint files per timestep.
 
     Args:
-        input_dir (str): Directory containing the dump_*.bin files.
-        output_dir (str): Directory where combined checkpoint_*.bin files will be saved.
+        input_dir (str): Directory containing the dump_*.txt files.
+        output_dir (str): Directory where combined checkpoint_*.txt files will be saved.
     """
     if not os.path.isdir(input_dir):
         print(f"Error: Input directory '{input_dir}' not found.")
@@ -21,16 +21,16 @@ def combine_timestep_files(input_dir, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     # Regex to extract timestep and PE number
-    # Assumes format dump_tsXXXX_peYYYYYY.bin
-    file_pattern = re.compile(r"dump_ts(\d+)_pe(\d+)\.bin$")
+    # Assumes format dump_tsXXXX_peYYYYYY.txt
+    file_pattern = re.compile(r"dump_ts(\d+)_pe(\d+)\.txt$")
 
     # Group files by timestep
     timestep_files = defaultdict(list)
-    search_path = os.path.join(input_dir, "dump_ts*_pe*.bin")
+    search_path = os.path.join(input_dir, "dump_ts*_pe*.txt")
     all_dump_files = glob.glob(search_path)
 
     if not all_dump_files:
-        print(f"Warning: No 'dump_ts*_pe*.bin' files found in '{input_dir}'.")
+        print(f"Warning: No 'dump_ts*_pe*.txt' files found in '{input_dir}'.")
         return
 
     print(f"Found {len(all_dump_files)} dump files in '{input_dir}'.")
@@ -50,10 +50,10 @@ def combine_timestep_files(input_dir, output_dir):
         # Sort files by PE rank to ensure correct concatenation order
         files.sort(key=lambda x: x['rank'])
 
-        output_filename = f"checkpoint_ts{timestep:04d}.bin"
+        output_filename = f"checkpoint_ts{timestep:04d}.txt"
         output_filepath = os.path.join(output_dir, output_filename)
 
-        print(f"Combining {len(files)} files for timestep {timestep} into {output_filepath}...")
+        print(f"Comtxting {len(files)} files for timestep {timestep} into {output_filepath}...")
 
         try:
             with open(output_filepath, 'wb') as outfile:
@@ -80,13 +80,13 @@ def combine_timestep_files(input_dir, output_dir):
             sys.exit(1)
 
     print(f"\nSuccessfully combined files for {timesteps_processed} timesteps.")
-    print(f"Combined checkpoints saved in: '{output_dir}'")
+    print(f"combined checkpoints saved in: '{output_dir}'")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Combine miniAMR per-PE dump files into per-timestep checkpoints.")
-    parser.add_argument("input_dir", help="Directory containing the dump_ts*_pe*.bin files.")
-    parser.add_argument("output_dir", help="Directory to save the combined checkpoint_ts*.bin files.")
+    parser = argparse.ArgumentParser(description="combine miniAMR per-PE dump files into per-timestep checkpoints.")
+    parser.add_argument("input_dir", help="Directory containing the dump_ts*_pe*.txt files.")
+    parser.add_argument("output_dir", help="Directory to save the combined checkpoint_ts*.txt files.")
 
     args = parser.parse_args()
 
