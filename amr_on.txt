@@ -1,9 +1,0 @@
--rw-r--r-- 1 zmalk zmalk   2048 Apr 28 12:10 dump_ts0000_pe000000.txt
--rw-r--r-- 1 zmalk zmalk   2048 Apr 28 12:10 dump_ts0005_pe000000.txt
--rw-r--r-- 1 zmalk zmalk  45056 Apr 28 12:10 dump_ts0010_pe000000.txt
--rw-r--r-- 1 zmalk zmalk 217088 Apr 28 12:10 dump_ts0015_pe000000.txt
--rw-r--r-- 1 zmalk zmalk 432128 Apr 28 12:10 dump_ts0020_pe000000.txt
--rw-r--r-- 1 zmalk zmalk 618496 Apr 28 12:10 dump_ts0025_pe000000.txt
--rw-r--r-- 1 zmalk zmalk 518144 Apr 28 12:11 dump_ts0030_pe000000.txt
--rw-r--r-- 1 zmalk zmalk 260096 Apr 28 12:11 dump_ts0035_pe000000.txt
--rw-r--r-- 1 zmalk zmalk  45056 Apr 28 12:11 dump_ts0040_pe000000.txt
