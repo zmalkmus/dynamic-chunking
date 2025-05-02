@@ -1,0 +1,1429 @@
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0000_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 21398
+Num shift dupl: 11370
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0001_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 10904
+Num shift dupl: 21864
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0002_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 9334
+Num shift dupl: 23434
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0003_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 8168
+Num shift dupl: 24600
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0004_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 7148
+Num shift dupl: 25620
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0005_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 6320
+Num shift dupl: 26448
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0006_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 5771
+Num shift dupl: 26997
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0007_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 5279
+Num shift dupl: 27489
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0008_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 4840
+Num shift dupl: 27928
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0009_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 4443
+Num shift dupl: 28325
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0010_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 4060
+Num shift dupl: 28708
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0011_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 3640
+Num shift dupl: 29128
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0012_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 3322
+Num shift dupl: 29446
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0013_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 2993
+Num shift dupl: 29775
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0014_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 2707
+Num shift dupl: 30061
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0015_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 2471
+Num shift dupl: 30297
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0016_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 2294
+Num shift dupl: 30474
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0017_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 2103
+Num shift dupl: 30665
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0018_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1944
+Num shift dupl: 30824
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0019_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1787
+Num shift dupl: 30981
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0020_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1673
+Num shift dupl: 31095
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0021_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1567
+Num shift dupl: 31201
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0022_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1461
+Num shift dupl: 31307
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0023_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1367
+Num shift dupl: 31401
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0024_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1268
+Num shift dupl: 31500
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0025_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1183
+Num shift dupl: 31585
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0026_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1122
+Num shift dupl: 31646
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0027_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1064
+Num shift dupl: 31704
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0028_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1000
+Num shift dupl: 31768
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0029_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 953
+Num shift dupl: 31815
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0030_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 886
+Num shift dupl: 31882
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0031_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 830
+Num shift dupl: 31938
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0032_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 783
+Num shift dupl: 31985
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0033_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 744
+Num shift dupl: 32024
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0034_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 713
+Num shift dupl: 32055
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0035_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 681
+Num shift dupl: 32087
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0036_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 649
+Num shift dupl: 32119
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0037_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 619
+Num shift dupl: 32149
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0038_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 581
+Num shift dupl: 32187
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0039_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 548
+Num shift dupl: 32220
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0040_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 523
+Num shift dupl: 32245
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0041_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 493
+Num shift dupl: 32275
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0042_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 473
+Num shift dupl: 32295
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0043_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 453
+Num shift dupl: 32315
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0044_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 435
+Num shift dupl: 32333
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0045_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 412
+Num shift dupl: 32356
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0046_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 394
+Num shift dupl: 32374
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0047_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 383
+Num shift dupl: 32385
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0048_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 362
+Num shift dupl: 32406
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0049_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 344
+Num shift dupl: 32424
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 1
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0050_pe000000.bin
+Read diff files
+Number of diffs: 1
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 330
+Num shift dupl: 32438
+Num prior diffs: 1
+Trying to close file
+Closed file
+Done finalizing Kokkos
+/home/zmalk/Research/dynamic_chunking/miniAMR/scripts

@@ -1,0 +1,879 @@
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type d
+Algorithm:  list
+Numb diffs: 51
+File 0: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0000_pe000000.bin
+File 1: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0001_pe000000.bin
+File 2: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0002_pe000000.bin
+File 3: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0003_pe000000.bin
+File 4: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0004_pe000000.bin
+File 5: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0005_pe000000.bin
+File 6: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0006_pe000000.bin
+File 7: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0007_pe000000.bin
+File 8: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0008_pe000000.bin
+File 9: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0009_pe000000.bin
+File 10: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0010_pe000000.bin
+File 11: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0011_pe000000.bin
+File 12: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0012_pe000000.bin
+File 13: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0013_pe000000.bin
+File 14: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0014_pe000000.bin
+File 15: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0015_pe000000.bin
+File 16: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0016_pe000000.bin
+File 17: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0017_pe000000.bin
+File 18: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0018_pe000000.bin
+File 19: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0019_pe000000.bin
+File 20: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0020_pe000000.bin
+File 21: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0021_pe000000.bin
+File 22: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0022_pe000000.bin
+File 23: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0023_pe000000.bin
+File 24: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0024_pe000000.bin
+File 25: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0025_pe000000.bin
+File 26: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0026_pe000000.bin
+File 27: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0027_pe000000.bin
+File 28: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0028_pe000000.bin
+File 29: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0029_pe000000.bin
+File 30: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0030_pe000000.bin
+File 31: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0031_pe000000.bin
+File 32: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0032_pe000000.bin
+File 33: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0033_pe000000.bin
+File 34: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0034_pe000000.bin
+File 35: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0035_pe000000.bin
+File 36: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0036_pe000000.bin
+File 37: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0037_pe000000.bin
+File 38: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0038_pe000000.bin
+File 39: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0039_pe000000.bin
+File 40: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0040_pe000000.bin
+File 41: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0041_pe000000.bin
+File 42: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0042_pe000000.bin
+File 43: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0043_pe000000.bin
+File 44: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0044_pe000000.bin
+File 45: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0045_pe000000.bin
+File 46: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0046_pe000000.bin
+File 47: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0047_pe000000.bin
+File 48: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0048_pe000000.bin
+File 49: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0049_pe000000.bin
+File 50: /home/zmalk/Research/dynamic_chunking/miniAMR/ref/dump_ts0050_pe000000.bin
+Read diff files
+Number of diffs: 51
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 0
+Data len: 524288
+Chunk size: 16
+Num first ocur: 21398
+Num shift dupl: 11370
+Num prior diffs: 1
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 1
+Data len: 524288
+Chunk size: 16
+Num first ocur: 9044
+Num shift dupl: 23686
+Num prior diffs: 2
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 2
+Data len: 524288
+Chunk size: 16
+Num first ocur: 6014
+Num shift dupl: 26370
+Num prior diffs: 3
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 3
+Data len: 524288
+Chunk size: 16
+Num first ocur: 3509
+Num shift dupl: 28818
+Num prior diffs: 4
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 4
+Data len: 524288
+Chunk size: 16
+Num first ocur: 1788
+Num shift dupl: 30445
+Num prior diffs: 5
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 5
+Data len: 524288
+Chunk size: 16
+Num first ocur: 840
+Num shift dupl: 31303
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 6
+Data len: 524288
+Chunk size: 16
+Num first ocur: 461
+Num shift dupl: 31625
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 7
+Data len: 524288
+Chunk size: 16
+Num first ocur: 261
+Num shift dupl: 31732
+Num prior diffs: 8
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 8
+Data len: 524288
+Chunk size: 16
+Num first ocur: 131
+Num shift dupl: 31732
+Num prior diffs: 9
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 9
+Data len: 524288
+Chunk size: 16
+Num first ocur: 61
+Num shift dupl: 31569
+Num prior diffs: 10
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 10
+Data len: 524288
+Chunk size: 16
+Num first ocur: 27
+Num shift dupl: 31365
+Num prior diffs: 11
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 11
+Data len: 524288
+Chunk size: 16
+Num first ocur: 11
+Num shift dupl: 31088
+Num prior diffs: 12
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 12
+Data len: 524288
+Chunk size: 16
+Num first ocur: 7
+Num shift dupl: 30751
+Num prior diffs: 13
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 13
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 30173
+Num prior diffs: 13
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 14
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 29527
+Num prior diffs: 13
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 15
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 29029
+Num prior diffs: 12
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 16
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 28438
+Num prior diffs: 12
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 17
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 27818
+Num prior diffs: 12
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 18
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 27186
+Num prior diffs: 11
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 19
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 26698
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 20
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 26155
+Num prior diffs: 9
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 21
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 25762
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 22
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 25221
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 23
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 24653
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 24
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 24260
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 25
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 23659
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 26
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 23153
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 27
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 22438
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 28
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 21905
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 29
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 21331
+Num prior diffs: 7
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 30
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 20925
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 31
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 20298
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 32
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 20002
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 33
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 19369
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 34
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 18784
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 35
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 18456
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 36
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 17774
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 37
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 17398
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 38
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 16963
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 39
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 16327
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 40
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 16117
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 41
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 15648
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 42
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 15108
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 43
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 14817
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 44
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 14595
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 45
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 13953
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 46
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 13643
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 47
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 13207
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 48
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 13067
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 49
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 12628
+Num prior diffs: 6
+Trying to close file
+Closed file
+Updated diff ID keys for sorting
+Created comparator
+Created BinSort
+Created permute vector
+Sorted duplicate offsets
+Sorted diff id keys
+Wrote duplicates
+Ref ID: 0
+Diff ID: 50
+Data len: 524288
+Chunk size: 16
+Num first ocur: 0
+Num shift dupl: 12157
+Num prior diffs: 6
+Trying to close file
+Closed file
+Done finalizing Kokkos
+/home/zmalk/Research/dynamic_chunking/miniAMR/scripts
