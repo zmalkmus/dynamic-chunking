@@ -5,13 +5,28 @@ This is a simple simulation of a 2D grid of doubles that gets perturbed by a sph
 This is a test for deduplication of miniAMR.
 
 +---+---+---+---+---+
+| O |   |   |   |   |
++---+---+---+---+---+
+| O | O |   |   |   |
++---+---+---+---+---+
+| O |   |   |   |   |
++---+---+---+---+---+
+
++---+---+---+---+---+
+|   | O |   |   |   |
++---+---+---+---+---+
+| O | O | O |   |   |
++---+---+---+---+---+
+|   | O |   |   |   |
++---+---+---+---+---+
+
++---+---+---+---+---+
 |   |   | O |   |   |
 +---+---+---+---+---+
 |   | O | O | O |   |
 +---+---+---+---+---+
 |   |   | O |   |   |
 +---+---+---+---+---+
-
 
 +---+---+---+---+---+
 |   |   |   | O |   |
@@ -20,7 +35,6 @@ This is a test for deduplication of miniAMR.
 +---+---+---+---+---+
 |   |   |   | O |   |
 +---+---+---+---+---+
-
 
 +---+---+---+---+---+
 |   |   |   |   | O |
@@ -33,9 +47,10 @@ This is a test for deduplication of miniAMR.
 '''
 
 from sim import Simulation
+from block import Block
 
 def main():
-    sim = Simulation(size=10, seed=42, sim_length=10, perturbation=0.1)
+    sim = Simulation(size=10, sim_length=3, perturbation=0.1, max_refinement=3)
 
 if __name__ == "__main__":
     main()
