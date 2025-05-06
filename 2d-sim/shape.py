@@ -10,7 +10,6 @@ class Circle(Shape):
         self.r = radius
         self.r2 = radius * radius
 
-    # ------------------------------------------------------------------ API
     def circumference(self):
         return 2 * math.pi * self.r
 

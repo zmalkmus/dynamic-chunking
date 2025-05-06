@@ -102,7 +102,7 @@ class Block:
             child.coarsen()
 
         # 4. Aggregate corner values from the (now-leaf) children.
-        n = len(self.children)           # typically 4, but stay generic
+        n = len(self.children) # typically 4, but stay generic
         self.x1 = sum(c.x1 for c in self.children) / n
         self.x2 = sum(c.x2 for c in self.children) / n
         self.x3 = sum(c.x3 for c in self.children) / n

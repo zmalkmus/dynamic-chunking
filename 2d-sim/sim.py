@@ -72,6 +72,49 @@ class Simulation:
             for block in row:
                 block.perturb(self.perturbation)
         return
+
+    def __do_refinement(self, block, shape) -> bool:
+        """
+        Depth-first refinement / coarsening.
+
+        Returns
+        -------
+        bool
+            True  – this block (or one of its descendants) intersects the
+                    shape’s border → keep it (and its parents) refined.
+            False – no intersection anywhere below → the whole subtree can be
+                    collapsed into this block.
+        """
+        # leaf block
+        if block.active:
+            intersects = shape.border_crosses(self.timestep, block)
+
+            # refine only if we *need* more resolution *and* we are still below
+            # the refinement cap
+            if intersects and block.level < self.max_refinement:
+                block.refine()
+
+                # fall through: handle the children right away
+                x = False
+                for child in block.children:
+                    x = self.__do_refinement(child, shape) or x
+                return x
+            
+            # leaf stays as-is
+            return intersects
+
+        # internal node
+        # recurse on the existing children
+        child_hits = [self.__do_refinement(child, shape) for child in block.children]
+        any_hit   = any(child_hits)
+
+        all_leaf_children = all(child.active for child in block.children)
+        if not any_hit and all_leaf_children:
+            block.coarsen()
+            return False
+
+        return any_hit
+
     
     # =========================================================
     # Shape Logic
@@ -99,46 +142,6 @@ class Simulation:
             for i in range(N)
         ]
         return path
-    
-    def __do_refinement(self, block, shape) -> bool:
-        """
-        Depth-first refinement / coarsening.
-
-        Returns
-        -------
-        bool
-            True  – this block (or one of its descendants) intersects the
-                    shape’s border → keep it (and its parents) refined.
-            False – no intersection anywhere below → the whole subtree can be
-                    collapsed into this block.
-        """
-        # ─────────────────────────────────────────────────────────── leaf block
-        if block.active:
-            intersects = shape.border_crosses(self.timestep, block)
-
-            # refine only if we *need* more resolution *and* we are still below
-            # the refinement cap
-            if intersects and block.level < self.max_refinement:
-                block.refine()
-                # fall through: handle the children right away
-                return any(
-                    self.__do_refinement(child, shape) for child in block.children
-                )
-
-            # leaf stays as-is
-            return intersects
-
-        # ───────────────────────────────────────────────────────── internal node
-        # recurse on the existing children
-        child_hits = [self.__do_refinement(child, shape) for child in block.children]
-        any_hit   = any(child_hits)
-
-        all_leaf_children = all(child.active for child in block.children)
-        if not any_hit and all_leaf_children:
-            block.coarsen()
-            return False
-
-        return any_hit
 
     def __apply_shape(self, shape):
         """
@@ -148,16 +151,13 @@ class Simulation:
         4. If any of the children are active and intersect with the shape, refine the block.
         5. If the block is not active and none of its children are active, do nothing.
         """
-
         
         print("TS: " + str(self.timestep) + " Center at " + str(shape.center(self.timestep)))
 
-        for x in range(10):
-            for row in self.grid:
-                for block in row:
-                    _ = self.__do_refinement(block, shape)
+        for row in self.grid:
+            for block in row:
+                _ = self.__do_refinement(block, shape)
                     
-
         return
 
     # =========================================================
@@ -254,7 +254,7 @@ class Simulation:
         ax.plot(x_vals, y_vals,
                 marker='o', linestyle='-', color='blue')
 
-        # --- domain and orientation -------------------------------------------
+        # domain and orientation
         ax.set_xlim(0.0, 1.0)               # X: 0 → 1 (left → right)
         ax.set_ylim(0.0, 1.0)               # Y: 0 → 1 (will invert next)
         ax.invert_yaxis()                   # put 0 at the *top*
@@ -263,7 +263,6 @@ class Simulation:
         # move X-axis to the top for a more “grid-like” feel (optional)
         ax.xaxis.set_ticks_position("top")
         ax.xaxis.set_label_position("top")
-        # ----------------------------------------------------------------------
 
         ax.set_title("Path Plot")
         ax.set_xlabel("X")

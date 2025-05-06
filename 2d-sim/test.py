@@ -1,9 +1,9 @@
 from block import Block
 from sim import Simulation
 
-# ────────────────────────────────────────────────────────────────────────────
+# =========================================================
 # Helper utilities
-# ────────────────────────────────────────────────────────────────────────────
+# =========================================================
 def _leaf_blocks(block: Block):
     """Return a flat list of every *leaf* block under—or equal to—`block`."""
     if block.active:
@@ -34,15 +34,15 @@ def _print_leaf_blocks(block: Block, indent: int = 0) -> None:
         _print_leaf_blocks(child, indent + 2)
 
 
-# ────────────────────────────────────────────────────────────────────────────
+# =========================================================
 # Main test routine
-# ────────────────────────────────────────────────────────────────────────────
+# =========================================================
 def test_refine_and_coarsen() -> None:
     print("\n=== BUILD 2×2 ROOT GRID ===")
     sim = Simulation(size=2, seed=0, sim_length=0)      # grid only
     roots = [blk for row in sim.grid for blk in row]
 
-    # ── level-0 checks ──────────────────────────────────────────────────
+    # level-0 checks
     leaves = _leaf_blocks_grid(sim.grid)
     assert len(leaves) == 4, "Initial leaf count should be 4"
     print("Initial leaf blocks:")
@@ -52,7 +52,7 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── refine all 4 roots → level 1 ────────────────────────────────────
+    # refine all 4 roots → level 1
     print("\n=== REFINE all root blocks to level-1 ===")
     for r in roots:
         r.refine()
@@ -64,8 +64,8 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── drill one branch to level-2 ─────────────────────────────────────
-    branch_lvl1 = roots[0].children[0]         # pick UL-of-UL leaf
+    # drill one branch to level-2
+    branch_lvl1 = roots[0].children[0] # pick UL-of-UL leaf
     branch_lvl1.refine()
 
     leaves = _leaf_blocks_grid(sim.grid)
@@ -75,7 +75,7 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── drill one grand-child to level-3 ───────────────────────────────
+    # drill one grand-child to level-3
     branch_lvl2 = branch_lvl1.children[0]
     branch_lvl2.refine()
 
@@ -86,7 +86,7 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── coarsen back: level-3 → level-2 ────────────────────────────────
+    # coarsen back: level-3 → level-2
     print("\n=== COARSEN level-3 branch back to level-2 ===")
     branch_lvl2.coarsen()
     leaves = _leaf_blocks_grid(sim.grid)
@@ -94,7 +94,7 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── coarsen level-2 branch back to level-1 ─────────────────────────
+    # coarsen level-2 branch back to level-1
     print("=== COARSEN level-2 branch back to level-1 ===")
     branch_lvl1.coarsen()
     leaves = _leaf_blocks_grid(sim.grid)
@@ -102,7 +102,7 @@ def test_refine_and_coarsen() -> None:
 
     sim.plot_grid()
 
-    # ── coarsen every root back to level-0 ─────────────────────────────
+    # coarsen every root back to level-0
     print("=== COARSEN all roots back to level-0 ===")
     for r in roots:
         r.coarsen()
