@@ -18,7 +18,7 @@ class Block:
         self.xmin = xmin
         self.xmax = xmax
         self.ymin = ymin
-        self.ymax = ymax\
+        self.ymax = ymax
 
         self.x1 = self.rng.uniform(0, 1)
         self.x2 = self.rng.uniform(0, 1)
@@ -35,6 +35,16 @@ class Block:
         x = (self.xmin + self.xmax) / 2
         y = (self.ymin + self.ymax) / 2
         return x, y
+    
+    def get_root(self):
+        """
+        Get the root block of the tree.
+        """
+
+        if self.parent is None:
+            return self
+        else:
+            return self.parent.get_root()
     
     # =========================================================
     # Simulation Logic

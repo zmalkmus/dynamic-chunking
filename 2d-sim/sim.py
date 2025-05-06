@@ -64,6 +64,7 @@ class Simulation:
     def __step(self):
         self.__perturb_grid()
         self.__apply_shape(self.shape_list[0])
+        self.__enforce_refinement()
         self.timestep += 1
         return
 
@@ -89,11 +90,10 @@ class Simulation:
         if block.active:
             intersects = shape.border_crosses(self.timestep, block)
 
-            # refine only if we *need* more resolution *and* we are still below
-            # the refinement cap
+            # refine only if we need more resolution and*we are still below the refinement cap
             if intersects and block.level < self.max_refinement:
                 block.refine()
-
+                
                 # fall through: handle the children right away
                 x = False
                 for child in block.children:
@@ -114,7 +114,50 @@ class Simulation:
             return False
 
         return any_hit
+    
+    def __enforce_refinement(self):
+        for _ in range(self.max_refinement):
+            leaves = self.__flatten_block_list()
 
+            for leaf in leaves:
+                neighbors = self.__get_block_neighbors(leaf)
+                for n in neighbors:
+                    if n.level < leaf.level - 1:
+                        n.refine()
+        return
+    
+    def  __get_block_neighbors(self, block):
+        """
+        Get the neighbors of a block in the grid.
+        """
+        neighbors = []
+        flattened_grid = self.__flatten_block_list()
+        for blk in flattened_grid:
+            if blk != block and blk.active:
+                if (blk.xmin <= block.xmax and blk.xmax >= block.xmin and
+                    blk.ymin <= block.ymax and blk.ymax >= block.ymin):
+                    neighbors.append(blk)
+        return neighbors
+        
+    def __flatten_block_list(self):
+        """
+        Return a flat list of *leaf* blocks ― i.e. every block that is currently
+        active (no children).  Internal / inactive blocks are skipped.
+        """
+        leaves = []
+
+        def dfs(blk):
+            if blk.active:
+                leaves.append(blk)
+            else:
+                for child in blk.children:
+                    dfs(child)
+
+        for row in self.grid:
+            for blk in row:
+                dfs(blk)
+
+        return leaves
     
     # =========================================================
     # Shape Logic
@@ -142,6 +185,20 @@ class Simulation:
             for i in range(N)
         ]
         return path
+    
+    def __perturb_grid_by_level(self):
+        """
+        Perturb the grid by level.
+        """
+        
+        flattened_grid = self.__flatten_block_list()
+
+        for block in flattened_grid:
+            if block.level != 0:
+                block.perturb(self.perturbation * 2 ** block.level)
+        
+        return
+
 
     def __apply_shape(self, shape):
         """
@@ -157,33 +214,15 @@ class Simulation:
         for row in self.grid:
             for block in row:
                 _ = self.__do_refinement(block, shape)
-                    
+
+        # Change the grid based on the level of the blocks
+        self.__perturb_grid_by_level()
+    
         return
 
     # =========================================================
     # Plotting Logic
     # =========================================================
-
-    def __flatten_block_list(self):
-        """
-        Return a flat list of *leaf* blocks ― i.e. every block that is currently
-        active (no children).  Internal / inactive blocks are skipped.
-        """
-        leaves = []
-
-        def dfs(blk):
-            if blk.active:
-                leaves.append(blk)
-            else:
-                for child in blk.children:
-                    dfs(child)
-
-        for row in self.grid:
-            for blk in row:
-                dfs(blk)
-
-        return leaves
-    
 
     def plot_grid(self, show_internal=False):
         """
@@ -205,22 +244,6 @@ class Simulation:
                     linewidth=1.0,
                 )
             )
-
-        if show_internal:
-            for row in self.grid:
-                for blk in row:
-                    if not blk.active:
-                        ax.add_patch(
-                            plt.Rectangle(
-                                (blk.xmin, blk.ymin),
-                                blk.xmax - blk.xmin,
-                                blk.ymax - blk.ymin,
-                                edgecolor="grey",
-                                facecolor="none",
-                                linewidth=0.5,
-                                linestyle="--",
-                            )
-                        )
 
         ax.set_xlim(0, 1)
         ax.set_ylim(0, 1)
