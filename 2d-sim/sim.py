@@ -20,7 +20,7 @@ class Simulation:
     The blocks are refined by a given number of levels.
     """
 
-    def __init__(self, size, seed=None, sim_length=10, perturbation=0.1, max_refinement=3, uniform_refinement=False, plot=False, output_dir="data"):
+    def __init__(self, size, seed=None, sim_length=10, perturbation=0.1, max_refinement=3, shape_affects_mesh = True, uniform_refinement=False, plot=False, output_dir="data"):
         if seed is None:
             seed = random.randint(0, 100000)
 
@@ -30,6 +30,7 @@ class Simulation:
         self.perturbation        = perturbation
         self.max_refinement      = max_refinement
         self.uniform_refinement  = uniform_refinement
+        self.shape_affects_mesh  = shape_affects_mesh
         self.size                = size
         self.timestep            = 0
         self.mesh: list[Block]   = []
@@ -134,15 +135,6 @@ class Simulation:
         for block in self.leaves:
             block.perturb(self.perturbation)
         return
-    
-    # def __perturb_mesh_by_level(self):
-    #     """
-    #     Perturb the mesh by level. (Deprecated)
-    #     """
-    #     for block in self.leaves:
-    #         if block.level == self.max_refinement:
-    #             block.perturb(0.5)
-    #     return
 
     def __do_refinement(self, block, shape) -> bool:
         """
@@ -249,8 +241,8 @@ class Simulation:
             for row in self.mesh:
                 for block in row:
                     _ = self.__do_refinement(block, shape)
-                    
-        self.__perturb_mesh_by_shape(shape)
+        if self.shape_affects_mesh:
+            self.__perturb_mesh_by_shape(shape)
         return
     
     def __perturb_mesh_by_shape(self, shape):
@@ -272,7 +264,7 @@ class Simulation:
         Dump the simulation to a file.
         """
         
-        filename = f"step_{self.timestep}.dat"
+        filename = f"step_{self.timestep:04d}.dat"
         
         if not os.path.exists(self.output_dir):
             os.makedirs(self.output_dir)
@@ -340,10 +332,9 @@ class Simulation:
         # save the figure
         image_dir = os.path.join(self.output_dir, "images")
         os.makedirs(image_dir, exist_ok=True)
-        filename = os.path.join(image_dir, f"mesh_{self.timestep}.png")
+        filename = os.path.join(image_dir, f"mesh_{self.timestep:04d}.png")
         plt.savefig(filename, dpi=300, bbox_inches="tight")
         plt.close(fig)
-
 
     def plot_path(self, path):
         if self.plot:
