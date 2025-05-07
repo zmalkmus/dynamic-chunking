@@ -1,4 +1,5 @@
 import random
+import numpy as np
 
 class Block:
     """
@@ -127,14 +128,10 @@ class Block:
     # I/O
     # =========================================================
     
-    def binary_dump(self, filename):
+    def binary_dump(self, filename, dtype=np.float32):
         """
         Write the block to a binary file.
         """
 
-        with open(filename, 'wb') as f:
-            f.write(self.x1.tobytes())
-            f.write(self.x2.tobytes())
-            f.write(self.x3.tobytes())
-            f.write(self.x4.tobytes())
+        np.asarray([self.x1, self.x2, self.x3, self.x4], dtype=dtype).tofile(filename)
         return

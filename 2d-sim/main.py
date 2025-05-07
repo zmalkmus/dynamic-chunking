@@ -47,10 +47,9 @@ This is a test for deduplication of miniAMR.
 '''
 
 from sim import Simulation
-from block import Block
 
 def main():
-    sim = Simulation(size=10, sim_length=3, perturbation=0.1, max_refinement=3)
+    sim = Simulation(size=10, sim_length=10, perturbation=0.1, max_refinement=3)
 
 if __name__ == "__main__":
     main()

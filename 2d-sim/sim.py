@@ -2,8 +2,7 @@ import random
 from block import Block
 from shape import Circle
 import matplotlib.pyplot as plt
-
-# TODO: Implement communication between root blocks (2 to 1 rule where no blocks are more than 1 level apart)
+import os
 
 class Simulation:
     """
@@ -20,14 +19,19 @@ class Simulation:
     """
 
     def __init__(self, size, seed=None, sim_length=10, perturbation=0.1, max_refinement=3):
-        self.master_rng     = random.Random(seed)
-        self.sim_length     = sim_length
-        self.perturbation   = perturbation
-        self.timestep       = 0
-        self.size           = size
-        self.grid           = self.__initialize_grid(size)
-        self.max_refinement = max_refinement
-        self.shape_list     = []
+        if seed is None:
+            seed = random.randint(0, 100000)
+
+        self.seed                = seed
+        self.master_rng          = random.Random(seed)
+        self.sim_length          = sim_length
+        self.perturbation        = perturbation
+        self.timestep            = 0
+        self.size                = size
+        self.grid                = self.__initialize_grid(size)
+        self.leaves: list[Block] = []
+        self.max_refinement      = max_refinement
+        self.shape_list          = []
 
         p = self.__generate_shape_path(sim_length)
         self.plot_path(p)
@@ -58,6 +62,7 @@ class Simulation:
     def run(self):
         while self.timestep < self.sim_length:
             self.__step()
+            self.dump_simulation()
             self.plot_grid(show_internal=True)
         return
     
@@ -93,7 +98,9 @@ class Simulation:
             # refine only if we need more resolution and*we are still below the refinement cap
             if intersects and block.level < self.max_refinement:
                 block.refine()
-                
+
+                # TODO: Replace block with its children in the leaves cache
+
                 # fall through: handle the children right away
                 x = False
                 for child in block.children:
@@ -224,6 +231,25 @@ class Simulation:
     # Plotting Logic
     # =========================================================
 
+    def dump_simulation(self):
+        """
+        Dump the simulation to a file.
+        """
+        
+        filename = f"{self.seed}_{self.timestep}.dat"
+        
+        if not os.path.exists("data"):
+            os.makedirs("data")
+        filename = os.path.join("data", filename)
+        print(f"Dumping simulation to {filename}")
+        
+        flattened_grid = self.__flatten_block_list()
+
+        for block in flattened_grid:
+            block.binary_dump(filename)
+
+        return
+
     def plot_grid(self, show_internal=False):
         """
         Draw the current AMR layout.
@@ -265,7 +291,7 @@ class Simulation:
         ax.set_xlabel("X")
         ax.set_ylabel("Y")
         ax.set_title("Grid Blocks (origin at upper-left)")
-        plt.show()
+        plt.savefig(f"{self.seed}_{self.timestep}.png", dpi=300, bbox_inches="tight")
 
     def plot_path(self, path):
         x_vals, y_vals = zip(*path)
@@ -291,4 +317,4 @@ class Simulation:
         ax.set_xlabel("X")
         ax.set_ylabel("Y")
         ax.grid(True)
-        plt.show()
+        plt.savefig(f"{self.seed}_path.png", dpi=300, bbox_inches="tight")
