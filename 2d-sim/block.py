@@ -12,19 +12,18 @@ class Block:
     [b2|b3]
     """
 
-    def __init__(self, seed, xmin, xmax, ymin, ymax, level=0):
-        self.rng = random.Random(seed)
+    def __init__(self, sim, xmin, xmax, ymin, ymax, level=0):
         self.active = True
+        self.sim    = sim
+        self.xmin   = xmin
+        self.xmax   = xmax
+        self.ymin   = ymin
+        self.ymax   = ymax
 
-        self.xmin = xmin
-        self.xmax = xmax
-        self.ymin = ymin
-        self.ymax = ymax
-
-        self.x1 = self.rng.uniform(0, 1)
-        self.x2 = self.rng.uniform(0, 1)
-        self.x3 = self.rng.uniform(0, 1)
-        self.x4 = self.rng.uniform(0, 1)
+        self.x1 = self.sim.rng.uniform(0, 1)
+        self.x2 = self.sim.rng.uniform(0, 1)
+        self.x3 = self.sim.rng.uniform(0, 1)
+        self.x4 = self.sim.rng.uniform(0, 1)
 
         self.children = []
         self.level = level
@@ -61,10 +60,15 @@ class Block:
                 child.perturb(perturbation)
             return
         else:
-            self.x1 += self.rng.uniform(-perturbation, perturbation)
-            self.x2 += self.rng.uniform(-perturbation, perturbation)
-            self.x3 += self.rng.uniform(-perturbation, perturbation)
-            self.x4 += self.rng.uniform(-perturbation, perturbation)
+            new_x1 = self.x1 + self.sim.rng.uniform(-perturbation, perturbation)
+            new_x2 = self.x2 + self.sim.rng.uniform(-perturbation, perturbation)
+            new_x3 = self.x3 + self.sim.rng.uniform(-perturbation, perturbation)
+            new_x4 = self.x4 + self.sim.rng.uniform(-perturbation, perturbation)
+
+            self.x1 = max(0.0, new_x1)
+            self.x2 = max(0.0, new_x2)
+            self.x3 = max(0.0, new_x3)
+            self.x4 = max(0.0, new_x4)
         return
     
     def refine(self):
@@ -77,10 +81,10 @@ class Block:
 
         cx, cy = self.center()
         self.children = [
-            Block(self.rng.randint(0, 1_000_000), self.xmin, cx, self.ymin, cy), #b0
-            Block(self.rng.randint(0, 1_000_000), cx, self.xmax, self.ymin, cy), #b1
-            Block(self.rng.randint(0, 1_000_000), self.xmin, cx, cy, self.ymax), #b2
-            Block(self.rng.randint(0, 1_000_000), cx, self.xmax, cy, self.ymax)  #b3
+            Block(self.sim, self.xmin, cx, self.ymin, cy), #b0
+            Block(self.sim, cx, self.xmax, self.ymin, cy), #b1
+            Block(self.sim, self.xmin, cx, cy, self.ymax), #b2
+            Block(self.sim, cx, self.xmax, cy, self.ymax)  #b3
         ]
 
         # Set the level of the children blocks
@@ -90,10 +94,14 @@ class Block:
             self.children[i].parent = self
 
             # Set the values of the children blocks based on the parent block
-            self.children[i].x1 = self.rng.uniform(self.x2, self.x3)
-            self.children[i].x2 = self.rng.uniform(self.x1, self.x4)
-            self.children[i].x3 = self.rng.uniform(self.x1, self.x4)
-            self.children[i].x4 = self.rng.uniform(self.x2, self.x3)
+            self.children[i].x1 = self.sim.rng.uniform(self.x2, self.x3)
+            self.children[i].x2 = self.sim.rng.uniform(self.x1, self.x4)
+            self.children[i].x3 = self.sim.rng.uniform(self.x1, self.x4)
+            self.children[i].x4 = self.sim.rng.uniform(self.x2, self.x3)
+
+        # Update the simulation's leaf cache
+        self.sim.leaves.remove(self)
+        self.sim.leaves.extend(self.children)
 
         self.active = False
         return
@@ -120,6 +128,12 @@ class Block:
         self.x4 = sum(c.x4 for c in self.children) / n
 
         # 5. Release fine blocks and reactivate this one.
+        self.sim.leaves.remove(self.children[0])
+        self.sim.leaves.remove(self.children[1])
+        self.sim.leaves.remove(self.children[2])
+        self.sim.leaves.remove(self.children[3])
+        self.sim.leaves.append(self)
+
         self.children.clear()
         self.active = True
         return
@@ -129,9 +143,6 @@ class Block:
     # =========================================================
     
     def binary_dump(self, filename, dtype=np.float32):
-        """
-        Write the block to a binary file.
-        """
-
-        np.asarray([self.x1, self.x2, self.x3, self.x4], dtype=dtype).tofile(filename)
+        arr = np.asarray([self.x1, self.x2, self.x3, self.x4], dtype=dtype)
+        arr.tofile(open(filename, "ab"))
         return

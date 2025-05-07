@@ -1,2 +1,1 @@
-rm *.png
-rm data/*.dat
+rm -rf data/*
