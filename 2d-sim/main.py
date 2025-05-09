@@ -51,7 +51,7 @@ This is a test for deduplication of miniAMR.
 from sim import Simulation
 
 def main():
-    sim = Simulation(size=4, sim_length=10, perturbation=0.0000001, max_refinement=0, shape_affects_mesh=True, uniform_refinement=False, plot=True)
+    sim = Simulation(size=4, sim_length=10, perturbation=0.0000001, max_refinement=3, shape_affects_mesh=True, uniform_refinement=False, plot=True)
     # sim = Simulation(seed=42, size=10, sim_length=10, perturbation=0.01, max_refinement=3, uniform_refinement=False, plot=True)
 
 if __name__ == "__main__":
