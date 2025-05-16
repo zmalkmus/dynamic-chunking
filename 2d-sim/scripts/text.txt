@@ -1,0 +1,3007 @@
+------------------------------------------------------
+Chunk size: 16
+Start level 13
+Fuzzy hash? 1
+Error: 0.1
+Data Type f
+Algorithm:  tree
+Numb diffs: 50
+File 0: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0001.dat
+File 1: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0002.dat
+File 2: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0003.dat
+File 3: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0004.dat
+File 4: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0005.dat
+File 5: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0006.dat
+File 6: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0007.dat
+File 7: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0008.dat
+File 8: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0009.dat
+File 9: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0010.dat
+File 10: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0011.dat
+File 11: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0012.dat
+File 12: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0013.dat
+File 13: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0014.dat
+File 14: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0015.dat
+File 15: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0016.dat
+File 16: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0017.dat
+File 17: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0018.dat
+File 18: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0019.dat
+File 19: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0020.dat
+File 20: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0021.dat
+File 21: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0022.dat
+File 22: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0023.dat
+File 23: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0024.dat
+File 24: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0025.dat
+File 25: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0026.dat
+File 26: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0027.dat
+File 27: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0028.dat
+File 28: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0029.dat
+File 29: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0030.dat
+File 30: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0031.dat
+File 31: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0032.dat
+File 32: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0033.dat
+File 33: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0034.dat
+File 34: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0035.dat
+File 35: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0036.dat
+File 36: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0037.dat
+File 37: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0038.dat
+File 38: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0039.dat
+File 39: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0040.dat
+File 40: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0041.dat
+File 41: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0042.dat
+File 42: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0043.dat
+File 43: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0044.dat
+File 44: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0045.dat
+File 45: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0046.dat
+File 46: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0047.dat
+File 47: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0048.dat
+File 48: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0049.dat
+File 49: /home/zmalk/Research/dynamic_chunking/2d-sim/data/42/AMR_OFF/step_0050.dat
+Read diff files
+Number of diffs: 50
+Should be fuzzy hash
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 504
+[Debug] Shift dupl vec size: 203
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 504
+Number of shift duplicates : 203
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 1
+Offset for data: 3680
+Number of first occurrence chunks: 2101
+Wrote table entry (0,203) at offset 2048
+Prior start offset: 2024
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 0
+Data len: 36864
+Chunk size: 16
+Num first ocur: 504
+Num shift dupl: 203
+Num prior diffs: 1
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 285
+First Occurrence: Num regions of size 2: 42
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 83
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 329
+[Debug] Shift dupl vec size: 83
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 329
+Number of shift duplicates : 83
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 2
+Offset for data: 2028
+Number of first occurrence chunks: 377
+Wrote table entry (0,79) at offset 1348
+Wrote table entry (1,4) at offset 1356
+Prior start offset: 1332
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 1
+Data len: 36864
+Chunk size: 16
+Num first ocur: 329
+Num shift dupl: 83
+Num prior diffs: 2
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 248
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 177
+Shift Occurrence: Num regions of size 2: 5
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 269
+[Debug] Shift dupl vec size: 182
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 269
+Number of shift duplicates : 182
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 3
+Offset for data: 2588
+Number of first occurrence chunks: 294
+Wrote table entry (0,167) at offset 1108
+Wrote table entry (1,10) at offset 1116
+Wrote table entry (2,5) at offset 1124
+Prior start offset: 1100
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 2
+Data len: 36864
+Chunk size: 16
+Num first ocur: 269
+Num shift dupl: 182
+Num prior diffs: 3
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 195
+First Occurrence: Num regions of size 2: 18
+First Occurrence: Num regions of size 4: 1
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 224
+Shift Occurrence: Num regions of size 2: 4
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 215
+[Debug] Shift dupl vec size: 228
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 215
+Number of shift duplicates : 228
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 4
+Offset for data: 2748
+Number of first occurrence chunks: 243
+Wrote table entry (0,173) at offset 892
+Wrote table entry (1,48) at offset 900
+Wrote table entry (2,6) at offset 908
+Wrote table entry (3,1) at offset 916
+Prior start offset: 892
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 3
+Data len: 36864
+Chunk size: 16
+Num first ocur: 215
+Num shift dupl: 228
+Num prior diffs: 4
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 164
+First Occurrence: Num regions of size 2: 23
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 246
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 188
+[Debug] Shift dupl vec size: 246
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 188
+Number of shift duplicates : 246
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 5
+Offset for data: 2792
+Number of first occurrence chunks: 214
+Wrote table entry (0,168) at offset 784
+Wrote table entry (1,34) at offset 792
+Wrote table entry (2,38) at offset 800
+Wrote table entry (3,3) at offset 808
+Wrote table entry (4,3) at offset 816
+Prior start offset: 792
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 4
+Data len: 36864
+Chunk size: 16
+Num first ocur: 188
+Num shift dupl: 246
+Num prior diffs: 5
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 171
+First Occurrence: Num regions of size 2: 13
+First Occurrence: Num regions of size 4: 2
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 251
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 187
+[Debug] Shift dupl vec size: 254
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 187
+Number of shift duplicates : 254
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 6
+Offset for data: 2860
+Number of first occurrence chunks: 213
+Wrote table entry (0,166) at offset 780
+Wrote table entry (1,28) at offset 788
+Wrote table entry (2,26) at offset 796
+Wrote table entry (3,28) at offset 804
+Wrote table entry (4,4) at offset 812
+Wrote table entry (5,2) at offset 820
+Prior start offset: 796
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 5
+Data len: 36864
+Chunk size: 16
+Num first ocur: 187
+Num shift dupl: 254
+Num prior diffs: 6
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 179
+First Occurrence: Num regions of size 2: 21
+First Occurrence: Num regions of size 4: 3
+Shift Occurrence: Num regions of size 1: 237
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 203
+[Debug] Shift dupl vec size: 239
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 203
+Number of shift duplicates : 239
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 6
+Offset for data: 2804
+Number of first occurrence chunks: 233
+Wrote table entry (0,155) at offset 844
+Wrote table entry (1,17) at offset 852
+Wrote table entry (2,22) at offset 860
+Wrote table entry (3,17) at offset 868
+Wrote table entry (4,26) at offset 876
+Wrote table entry (5,2) at offset 884
+Prior start offset: 860
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 6
+Data len: 36864
+Chunk size: 16
+Num first ocur: 203
+Num shift dupl: 239
+Num prior diffs: 6
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 146
+First Occurrence: Num regions of size 2: 18
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 267
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 166
+[Debug] Shift dupl vec size: 269
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 166
+Number of shift duplicates : 269
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 8
+Offset for data: 2912
+Number of first occurrence chunks: 190
+Wrote table entry (0,161) at offset 696
+Wrote table entry (1,27) at offset 704
+Wrote table entry (2,26) at offset 712
+Wrote table entry (3,17) at offset 720
+Wrote table entry (4,15) at offset 728
+Wrote table entry (5,20) at offset 736
+Wrote table entry (6,2) at offset 744
+Wrote table entry (7,1) at offset 752
+Prior start offset: 728
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 7
+Data len: 36864
+Chunk size: 16
+Num first ocur: 166
+Num shift dupl: 269
+Num prior diffs: 8
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 137
+First Occurrence: Num regions of size 2: 19
+Shift Occurrence: Num regions of size 1: 271
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 156
+[Debug] Shift dupl vec size: 272
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 156
+Number of shift duplicates : 272
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 8
+Offset for data: 2896
+Number of first occurrence chunks: 175
+Wrote table entry (0,141) at offset 656
+Wrote table entry (1,30) at offset 664
+Wrote table entry (2,30) at offset 672
+Wrote table entry (3,16) at offset 680
+Wrote table entry (4,12) at offset 688
+Wrote table entry (5,17) at offset 696
+Wrote table entry (6,23) at offset 704
+Wrote table entry (7,3) at offset 712
+Prior start offset: 688
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 8
+Data len: 36864
+Chunk size: 16
+Num first ocur: 156
+Num shift dupl: 272
+Num prior diffs: 8
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 157
+First Occurrence: Num regions of size 2: 17
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 291
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 176
+[Debug] Shift dupl vec size: 293
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 176
+Number of shift duplicates : 293
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 8
+Offset for data: 3144
+Number of first occurrence chunks: 199
+Wrote table entry (0,163) at offset 736
+Wrote table entry (1,25) at offset 744
+Wrote table entry (2,24) at offset 752
+Wrote table entry (3,13) at offset 760
+Wrote table entry (4,20) at offset 768
+Wrote table entry (5,20) at offset 776
+Wrote table entry (6,15) at offset 784
+Wrote table entry (7,13) at offset 792
+Prior start offset: 768
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 9
+Data len: 36864
+Chunk size: 16
+Num first ocur: 176
+Num shift dupl: 293
+Num prior diffs: 8
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 151
+First Occurrence: Num regions of size 2: 22
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 269
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 174
+[Debug] Shift dupl vec size: 270
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 174
+Number of shift duplicates : 270
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 10
+Offset for data: 2968
+Number of first occurrence chunks: 199
+Wrote table entry (0,145) at offset 728
+Wrote table entry (1,16) at offset 736
+Wrote table entry (2,22) at offset 744
+Wrote table entry (3,15) at offset 752
+Wrote table entry (4,12) at offset 760
+Wrote table entry (5,15) at offset 768
+Wrote table entry (6,16) at offset 776
+Wrote table entry (7,16) at offset 784
+Wrote table entry (8,12) at offset 792
+Wrote table entry (9,1) at offset 800
+Prior start offset: 776
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 10
+Data len: 36864
+Chunk size: 16
+Num first ocur: 174
+Num shift dupl: 270
+Num prior diffs: 10
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 142
+First Occurrence: Num regions of size 2: 25
+First Occurrence: Num regions of size 4: 1
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 283
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 169
+[Debug] Shift dupl vec size: 285
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 169
+Number of shift duplicates : 285
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 12
+Offset for data: 3084
+Number of first occurrence chunks: 204
+Wrote table entry (0,148) at offset 708
+Wrote table entry (1,19) at offset 716
+Wrote table entry (2,13) at offset 724
+Wrote table entry (3,17) at offset 732
+Wrote table entry (4,12) at offset 740
+Wrote table entry (5,10) at offset 748
+Wrote table entry (6,14) at offset 756
+Wrote table entry (7,11) at offset 764
+Wrote table entry (8,10) at offset 772
+Wrote table entry (9,28) at offset 780
+Wrote table entry (10,2) at offset 788
+Wrote table entry (11,1) at offset 796
+Prior start offset: 772
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 11
+Data len: 36864
+Chunk size: 16
+Num first ocur: 169
+Num shift dupl: 285
+Num prior diffs: 12
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 131
+First Occurrence: Num regions of size 2: 22
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 300
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 154
+[Debug] Shift dupl vec size: 303
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 154
+Number of shift duplicates : 303
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 12
+Offset for data: 3168
+Number of first occurrence chunks: 179
+Wrote table entry (0,154) at offset 648
+Wrote table entry (1,20) at offset 656
+Wrote table entry (2,24) at offset 664
+Wrote table entry (3,14) at offset 672
+Wrote table entry (4,10) at offset 680
+Wrote table entry (5,10) at offset 688
+Wrote table entry (6,10) at offset 696
+Wrote table entry (7,7) at offset 704
+Wrote table entry (8,13) at offset 712
+Wrote table entry (9,18) at offset 720
+Wrote table entry (10,21) at offset 728
+Wrote table entry (11,2) at offset 736
+Prior start offset: 712
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 12
+Data len: 36864
+Chunk size: 16
+Num first ocur: 154
+Num shift dupl: 303
+Num prior diffs: 12
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 152
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 305
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 172
+[Debug] Shift dupl vec size: 306
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 172
+Number of shift duplicates : 306
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 13
+Offset for data: 3272
+Number of first occurrence chunks: 194
+Wrote table entry (0,135) at offset 720
+Wrote table entry (1,21) at offset 728
+Wrote table entry (2,12) at offset 736
+Wrote table entry (3,15) at offset 744
+Wrote table entry (4,12) at offset 752
+Wrote table entry (5,10) at offset 760
+Wrote table entry (6,24) at offset 768
+Wrote table entry (7,11) at offset 776
+Wrote table entry (8,14) at offset 784
+Wrote table entry (9,14) at offset 792
+Wrote table entry (10,17) at offset 800
+Wrote table entry (11,19) at offset 808
+Wrote table entry (12,2) at offset 816
+Prior start offset: 792
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 13
+Data len: 36864
+Chunk size: 16
+Num first ocur: 172
+Num shift dupl: 306
+Num prior diffs: 13
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 126
+First Occurrence: Num regions of size 2: 24
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 275
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 152
+[Debug] Shift dupl vec size: 278
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 152
+Number of shift duplicates : 278
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 15
+Offset for data: 2984
+Number of first occurrence chunks: 182
+Wrote table entry (0,123) at offset 640
+Wrote table entry (1,23) at offset 648
+Wrote table entry (2,14) at offset 656
+Wrote table entry (3,14) at offset 664
+Wrote table entry (4,11) at offset 672
+Wrote table entry (5,8) at offset 680
+Wrote table entry (6,6) at offset 688
+Wrote table entry (7,10) at offset 696
+Wrote table entry (8,7) at offset 704
+Wrote table entry (9,13) at offset 712
+Wrote table entry (10,13) at offset 720
+Wrote table entry (11,14) at offset 728
+Wrote table entry (12,16) at offset 736
+Wrote table entry (13,3) at offset 744
+Wrote table entry (14,3) at offset 752
+Prior start offset: 728
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 14
+Data len: 36864
+Chunk size: 16
+Num first ocur: 152
+Num shift dupl: 278
+Num prior diffs: 15
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 156
+First Occurrence: Num regions of size 2: 26
+First Occurrence: Num regions of size 4: 3
+Shift Occurrence: Num regions of size 1: 293
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 185
+[Debug] Shift dupl vec size: 294
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 185
+Number of shift duplicates : 294
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 15
+Offset for data: 3244
+Number of first occurrence chunks: 220
+Wrote table entry (0,120) at offset 772
+Wrote table entry (1,13) at offset 780
+Wrote table entry (2,14) at offset 788
+Wrote table entry (3,12) at offset 796
+Wrote table entry (4,10) at offset 804
+Wrote table entry (5,14) at offset 812
+Wrote table entry (6,13) at offset 820
+Wrote table entry (7,11) at offset 828
+Wrote table entry (8,11) at offset 836
+Wrote table entry (9,10) at offset 844
+Wrote table entry (10,17) at offset 852
+Wrote table entry (11,15) at offset 860
+Wrote table entry (12,15) at offset 868
+Wrote table entry (13,17) at offset 876
+Wrote table entry (15,2) at offset 884
+Prior start offset: 860
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 15
+Data len: 36864
+Chunk size: 16
+Num first ocur: 185
+Num shift dupl: 294
+Num prior diffs: 15
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 120
+First Occurrence: Num regions of size 2: 26
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 290
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 148
+[Debug] Shift dupl vec size: 293
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 148
+Number of shift duplicates : 293
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 17
+Offset for data: 3104
+Number of first occurrence chunks: 180
+Wrote table entry (0,124) at offset 624
+Wrote table entry (1,20) at offset 632
+Wrote table entry (2,18) at offset 640
+Wrote table entry (3,11) at offset 648
+Wrote table entry (4,4) at offset 656
+Wrote table entry (5,17) at offset 664
+Wrote table entry (6,11) at offset 672
+Wrote table entry (7,11) at offset 680
+Wrote table entry (8,10) at offset 688
+Wrote table entry (9,8) at offset 696
+Wrote table entry (10,13) at offset 704
+Wrote table entry (11,8) at offset 712
+Wrote table entry (12,7) at offset 720
+Wrote table entry (13,16) at offset 728
+Wrote table entry (14,12) at offset 736
+Wrote table entry (15,2) at offset 744
+Wrote table entry (16,1) at offset 752
+Prior start offset: 728
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 16
+Data len: 36864
+Chunk size: 16
+Num first ocur: 148
+Num shift dupl: 293
+Num prior diffs: 17
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 145
+First Occurrence: Num regions of size 2: 18
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 278
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 165
+[Debug] Shift dupl vec size: 278
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 165
+Number of shift duplicates : 278
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 17
+Offset for data: 3052
+Number of first occurrence chunks: 189
+Wrote table entry (0,109) at offset 692
+Wrote table entry (1,16) at offset 700
+Wrote table entry (2,14) at offset 708
+Wrote table entry (3,13) at offset 716
+Wrote table entry (4,12) at offset 724
+Wrote table entry (5,7) at offset 732
+Wrote table entry (6,14) at offset 740
+Wrote table entry (7,8) at offset 748
+Wrote table entry (8,5) at offset 756
+Wrote table entry (9,8) at offset 764
+Wrote table entry (10,6) at offset 772
+Wrote table entry (11,12) at offset 780
+Wrote table entry (12,13) at offset 788
+Wrote table entry (13,10) at offset 796
+Wrote table entry (14,14) at offset 804
+Wrote table entry (15,14) at offset 812
+Wrote table entry (17,3) at offset 820
+Prior start offset: 796
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 17
+Data len: 36864
+Chunk size: 16
+Num first ocur: 165
+Num shift dupl: 278
+Num prior diffs: 17
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 130
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 3
+Shift Occurrence: Num regions of size 1: 300
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 152
+[Debug] Shift dupl vec size: 301
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 152
+Number of shift duplicates : 301
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 18
+Offset for data: 3192
+Number of first occurrence chunks: 180
+Wrote table entry (0,118) at offset 640
+Wrote table entry (1,21) at offset 648
+Wrote table entry (2,14) at offset 656
+Wrote table entry (3,11) at offset 664
+Wrote table entry (4,6) at offset 672
+Wrote table entry (5,14) at offset 680
+Wrote table entry (6,14) at offset 688
+Wrote table entry (7,6) at offset 696
+Wrote table entry (8,13) at offset 704
+Wrote table entry (9,6) at offset 712
+Wrote table entry (10,11) at offset 720
+Wrote table entry (11,10) at offset 728
+Wrote table entry (12,13) at offset 736
+Wrote table entry (13,13) at offset 744
+Wrote table entry (14,8) at offset 752
+Wrote table entry (15,13) at offset 760
+Wrote table entry (16,9) at offset 768
+Wrote table entry (18,1) at offset 776
+Prior start offset: 752
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 18
+Data len: 36864
+Chunk size: 16
+Num first ocur: 152
+Num shift dupl: 301
+Num prior diffs: 18
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 131
+First Occurrence: Num regions of size 2: 23
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 291
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 156
+[Debug] Shift dupl vec size: 292
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 156
+Number of shift duplicates : 292
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 19
+Offset for data: 3144
+Number of first occurrence chunks: 185
+Wrote table entry (0,108) at offset 656
+Wrote table entry (1,17) at offset 664
+Wrote table entry (2,10) at offset 672
+Wrote table entry (3,14) at offset 680
+Wrote table entry (4,12) at offset 688
+Wrote table entry (5,14) at offset 696
+Wrote table entry (6,9) at offset 704
+Wrote table entry (7,7) at offset 712
+Wrote table entry (8,8) at offset 720
+Wrote table entry (9,14) at offset 728
+Wrote table entry (10,14) at offset 736
+Wrote table entry (11,14) at offset 744
+Wrote table entry (12,4) at offset 752
+Wrote table entry (13,10) at offset 760
+Wrote table entry (14,9) at offset 768
+Wrote table entry (15,9) at offset 776
+Wrote table entry (16,6) at offset 784
+Wrote table entry (17,12) at offset 792
+Wrote table entry (19,1) at offset 800
+Prior start offset: 776
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 19
+Data len: 36864
+Chunk size: 16
+Num first ocur: 156
+Num shift dupl: 292
+Num prior diffs: 19
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 131
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 1
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 282
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 152
+[Debug] Shift dupl vec size: 283
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 152
+Number of shift duplicates : 283
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 21
+Offset for data: 3072
+Number of first occurrence chunks: 181
+Wrote table entry (0,104) at offset 640
+Wrote table entry (1,15) at offset 648
+Wrote table entry (2,10) at offset 656
+Wrote table entry (3,7) at offset 664
+Wrote table entry (4,8) at offset 672
+Wrote table entry (5,6) at offset 680
+Wrote table entry (6,17) at offset 688
+Wrote table entry (7,6) at offset 696
+Wrote table entry (8,3) at offset 704
+Wrote table entry (9,9) at offset 712
+Wrote table entry (10,7) at offset 720
+Wrote table entry (11,12) at offset 728
+Wrote table entry (12,8) at offset 736
+Wrote table entry (13,10) at offset 744
+Wrote table entry (14,14) at offset 752
+Wrote table entry (15,12) at offset 760
+Wrote table entry (16,9) at offset 768
+Wrote table entry (17,12) at offset 776
+Wrote table entry (18,11) at offset 784
+Wrote table entry (19,2) at offset 792
+Wrote table entry (20,1) at offset 800
+Prior start offset: 776
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 20
+Data len: 36864
+Chunk size: 16
+Num first ocur: 152
+Num shift dupl: 283
+Num prior diffs: 21
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 123
+First Occurrence: Num regions of size 2: 15
+First Occurrence: Num regions of size 4: 3
+Shift Occurrence: Num regions of size 1: 309
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 141
+[Debug] Shift dupl vec size: 312
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 141
+Number of shift duplicates : 312
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 20
+Offset for data: 3252
+Number of first occurrence chunks: 165
+Wrote table entry (0,101) at offset 596
+Wrote table entry (1,22) at offset 604
+Wrote table entry (2,16) at offset 612
+Wrote table entry (3,12) at offset 620
+Wrote table entry (4,8) at offset 628
+Wrote table entry (5,13) at offset 636
+Wrote table entry (6,10) at offset 644
+Wrote table entry (7,6) at offset 652
+Wrote table entry (8,7) at offset 660
+Wrote table entry (9,8) at offset 668
+Wrote table entry (10,18) at offset 676
+Wrote table entry (11,8) at offset 684
+Wrote table entry (12,10) at offset 692
+Wrote table entry (13,4) at offset 700
+Wrote table entry (14,7) at offset 708
+Wrote table entry (15,13) at offset 716
+Wrote table entry (16,6) at offset 724
+Wrote table entry (17,9) at offset 732
+Wrote table entry (18,13) at offset 740
+Wrote table entry (19,21) at offset 748
+Prior start offset: 724
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 21
+Data len: 36864
+Chunk size: 16
+Num first ocur: 141
+Num shift dupl: 312
+Num prior diffs: 20
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 135
+First Occurrence: Num regions of size 2: 18
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 280
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 154
+[Debug] Shift dupl vec size: 283
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 154
+Number of shift duplicates : 283
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 21
+Offset for data: 3080
+Number of first occurrence chunks: 175
+Wrote table entry (0,100) at offset 648
+Wrote table entry (1,8) at offset 656
+Wrote table entry (2,19) at offset 664
+Wrote table entry (3,5) at offset 672
+Wrote table entry (4,8) at offset 680
+Wrote table entry (5,6) at offset 688
+Wrote table entry (6,7) at offset 696
+Wrote table entry (7,4) at offset 704
+Wrote table entry (8,5) at offset 712
+Wrote table entry (9,6) at offset 720
+Wrote table entry (10,5) at offset 728
+Wrote table entry (11,8) at offset 736
+Wrote table entry (12,8) at offset 744
+Wrote table entry (13,12) at offset 752
+Wrote table entry (14,12) at offset 760
+Wrote table entry (15,9) at offset 768
+Wrote table entry (16,9) at offset 776
+Wrote table entry (17,15) at offset 784
+Wrote table entry (18,15) at offset 792
+Wrote table entry (19,6) at offset 800
+Wrote table entry (20,16) at offset 808
+Prior start offset: 784
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 22
+Data len: 36864
+Chunk size: 16
+Num first ocur: 154
+Num shift dupl: 283
+Num prior diffs: 21
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 134
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 3
+Shift Occurrence: Num regions of size 1: 317
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 156
+[Debug] Shift dupl vec size: 318
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 156
+Number of shift duplicates : 318
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 23
+Offset for data: 3384
+Number of first occurrence chunks: 184
+Wrote table entry (0,109) at offset 656
+Wrote table entry (1,18) at offset 664
+Wrote table entry (2,15) at offset 672
+Wrote table entry (3,10) at offset 680
+Wrote table entry (4,11) at offset 688
+Wrote table entry (5,9) at offset 696
+Wrote table entry (6,14) at offset 704
+Wrote table entry (7,7) at offset 712
+Wrote table entry (8,4) at offset 720
+Wrote table entry (9,12) at offset 728
+Wrote table entry (10,8) at offset 736
+Wrote table entry (11,9) at offset 744
+Wrote table entry (12,8) at offset 752
+Wrote table entry (13,12) at offset 760
+Wrote table entry (14,4) at offset 768
+Wrote table entry (15,8) at offset 776
+Wrote table entry (16,3) at offset 784
+Wrote table entry (17,8) at offset 792
+Wrote table entry (18,8) at offset 800
+Wrote table entry (19,12) at offset 808
+Wrote table entry (20,16) at offset 816
+Wrote table entry (21,12) at offset 824
+Wrote table entry (22,1) at offset 832
+Prior start offset: 808
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 23
+Data len: 36864
+Chunk size: 16
+Num first ocur: 156
+Num shift dupl: 318
+Num prior diffs: 23
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 139
+First Occurrence: Num regions of size 2: 20
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 275
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 161
+[Debug] Shift dupl vec size: 276
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 161
+Number of shift duplicates : 276
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 24
+Offset for data: 3076
+Number of first occurrence chunks: 187
+Wrote table entry (0,79) at offset 676
+Wrote table entry (1,13) at offset 684
+Wrote table entry (2,14) at offset 692
+Wrote table entry (3,15) at offset 700
+Wrote table entry (4,7) at offset 708
+Wrote table entry (5,8) at offset 716
+Wrote table entry (6,5) at offset 724
+Wrote table entry (7,6) at offset 732
+Wrote table entry (8,9) at offset 740
+Wrote table entry (9,8) at offset 748
+Wrote table entry (10,5) at offset 756
+Wrote table entry (11,10) at offset 764
+Wrote table entry (12,8) at offset 772
+Wrote table entry (13,9) at offset 780
+Wrote table entry (14,8) at offset 788
+Wrote table entry (15,4) at offset 796
+Wrote table entry (16,9) at offset 804
+Wrote table entry (17,10) at offset 812
+Wrote table entry (18,5) at offset 820
+Wrote table entry (19,9) at offset 828
+Wrote table entry (20,13) at offset 836
+Wrote table entry (21,12) at offset 844
+Wrote table entry (22,8) at offset 852
+Wrote table entry (23,2) at offset 860
+Prior start offset: 836
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 24
+Data len: 36864
+Chunk size: 16
+Num first ocur: 161
+Num shift dupl: 276
+Num prior diffs: 24
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 141
+First Occurrence: Num regions of size 2: 24
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 286
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 166
+[Debug] Shift dupl vec size: 288
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 166
+Number of shift duplicates : 288
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 25
+Offset for data: 3200
+Number of first occurrence chunks: 193
+Wrote table entry (0,80) at offset 696
+Wrote table entry (1,12) at offset 704
+Wrote table entry (2,5) at offset 712
+Wrote table entry (3,11) at offset 720
+Wrote table entry (4,4) at offset 728
+Wrote table entry (5,12) at offset 736
+Wrote table entry (6,12) at offset 744
+Wrote table entry (7,7) at offset 752
+Wrote table entry (8,5) at offset 760
+Wrote table entry (9,4) at offset 768
+Wrote table entry (10,11) at offset 776
+Wrote table entry (11,8) at offset 784
+Wrote table entry (12,8) at offset 792
+Wrote table entry (13,15) at offset 800
+Wrote table entry (14,10) at offset 808
+Wrote table entry (15,12) at offset 816
+Wrote table entry (16,8) at offset 824
+Wrote table entry (17,8) at offset 832
+Wrote table entry (18,8) at offset 840
+Wrote table entry (19,8) at offset 848
+Wrote table entry (20,7) at offset 856
+Wrote table entry (21,6) at offset 864
+Wrote table entry (22,10) at offset 872
+Wrote table entry (23,16) at offset 880
+Wrote table entry (24,1) at offset 888
+Prior start offset: 864
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 25
+Data len: 36864
+Chunk size: 16
+Num first ocur: 166
+Num shift dupl: 288
+Num prior diffs: 25
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 123
+First Occurrence: Num regions of size 2: 23
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 279
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 147
+[Debug] Shift dupl vec size: 282
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 147
+Number of shift duplicates : 282
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 26
+Offset for data: 3084
+Number of first occurrence chunks: 173
+Wrote table entry (0,89) at offset 620
+Wrote table entry (1,9) at offset 628
+Wrote table entry (2,5) at offset 636
+Wrote table entry (3,9) at offset 644
+Wrote table entry (4,7) at offset 652
+Wrote table entry (5,10) at offset 660
+Wrote table entry (6,13) at offset 668
+Wrote table entry (7,2) at offset 676
+Wrote table entry (8,12) at offset 684
+Wrote table entry (9,3) at offset 692
+Wrote table entry (10,6) at offset 700
+Wrote table entry (11,4) at offset 708
+Wrote table entry (12,4) at offset 716
+Wrote table entry (13,9) at offset 724
+Wrote table entry (14,5) at offset 732
+Wrote table entry (15,8) at offset 740
+Wrote table entry (16,4) at offset 748
+Wrote table entry (17,12) at offset 756
+Wrote table entry (18,6) at offset 764
+Wrote table entry (19,10) at offset 772
+Wrote table entry (20,9) at offset 780
+Wrote table entry (21,5) at offset 788
+Wrote table entry (22,10) at offset 796
+Wrote table entry (23,17) at offset 804
+Wrote table entry (24,13) at offset 812
+Wrote table entry (26,1) at offset 820
+Prior start offset: 796
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 26
+Data len: 36864
+Chunk size: 16
+Num first ocur: 147
+Num shift dupl: 282
+Num prior diffs: 26
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 154
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 270
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 174
+[Debug] Shift dupl vec size: 270
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 174
+Number of shift duplicates : 270
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 26
+Offset for data: 3096
+Number of first occurrence chunks: 196
+Wrote table entry (0,78) at offset 728
+Wrote table entry (1,11) at offset 736
+Wrote table entry (2,10) at offset 744
+Wrote table entry (3,8) at offset 752
+Wrote table entry (4,8) at offset 760
+Wrote table entry (5,6) at offset 768
+Wrote table entry (6,9) at offset 776
+Wrote table entry (7,4) at offset 784
+Wrote table entry (8,4) at offset 792
+Wrote table entry (9,6) at offset 800
+Wrote table entry (10,9) at offset 808
+Wrote table entry (11,5) at offset 816
+Wrote table entry (12,4) at offset 824
+Wrote table entry (13,9) at offset 832
+Wrote table entry (14,4) at offset 840
+Wrote table entry (15,7) at offset 848
+Wrote table entry (16,5) at offset 856
+Wrote table entry (17,4) at offset 864
+Wrote table entry (18,6) at offset 872
+Wrote table entry (19,7) at offset 880
+Wrote table entry (20,11) at offset 888
+Wrote table entry (21,8) at offset 896
+Wrote table entry (22,15) at offset 904
+Wrote table entry (23,12) at offset 912
+Wrote table entry (24,13) at offset 920
+Wrote table entry (25,7) at offset 928
+Prior start offset: 904
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 27
+Data len: 36864
+Chunk size: 16
+Num first ocur: 174
+Num shift dupl: 270
+Num prior diffs: 26
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 114
+First Occurrence: Num regions of size 2: 15
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 299
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 131
+[Debug] Shift dupl vec size: 300
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 131
+Number of shift duplicates : 300
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 27
+Offset for data: 3172
+Number of first occurrence chunks: 152
+Wrote table entry (0,81) at offset 556
+Wrote table entry (1,14) at offset 564
+Wrote table entry (2,15) at offset 572
+Wrote table entry (3,8) at offset 580
+Wrote table entry (4,5) at offset 588
+Wrote table entry (5,10) at offset 596
+Wrote table entry (6,15) at offset 604
+Wrote table entry (7,2) at offset 612
+Wrote table entry (8,6) at offset 620
+Wrote table entry (9,5) at offset 628
+Wrote table entry (10,5) at offset 636
+Wrote table entry (11,6) at offset 644
+Wrote table entry (12,6) at offset 652
+Wrote table entry (13,6) at offset 660
+Wrote table entry (14,9) at offset 668
+Wrote table entry (15,5) at offset 676
+Wrote table entry (16,5) at offset 684
+Wrote table entry (17,10) at offset 692
+Wrote table entry (18,13) at offset 700
+Wrote table entry (19,5) at offset 708
+Wrote table entry (20,8) at offset 716
+Wrote table entry (21,9) at offset 724
+Wrote table entry (22,5) at offset 732
+Wrote table entry (23,8) at offset 740
+Wrote table entry (24,11) at offset 748
+Wrote table entry (25,18) at offset 756
+Wrote table entry (26,10) at offset 764
+Prior start offset: 740
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 28
+Data len: 36864
+Chunk size: 16
+Num first ocur: 131
+Num shift dupl: 300
+Num prior diffs: 27
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 134
+First Occurrence: Num regions of size 2: 20
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 237
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 155
+[Debug] Shift dupl vec size: 240
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 155
+Number of shift duplicates : 240
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 29
+Offset for data: 2804
+Number of first occurrence chunks: 182
+Wrote table entry (0,62) at offset 652
+Wrote table entry (1,13) at offset 660
+Wrote table entry (2,5) at offset 668
+Wrote table entry (3,8) at offset 676
+Wrote table entry (4,11) at offset 684
+Wrote table entry (5,10) at offset 692
+Wrote table entry (6,6) at offset 700
+Wrote table entry (7,2) at offset 708
+Wrote table entry (8,1) at offset 716
+Wrote table entry (9,6) at offset 724
+Wrote table entry (10,7) at offset 732
+Wrote table entry (11,5) at offset 740
+Wrote table entry (12,4) at offset 748
+Wrote table entry (13,3) at offset 756
+Wrote table entry (14,3) at offset 764
+Wrote table entry (15,6) at offset 772
+Wrote table entry (16,7) at offset 780
+Wrote table entry (17,6) at offset 788
+Wrote table entry (18,8) at offset 796
+Wrote table entry (19,6) at offset 804
+Wrote table entry (20,8) at offset 812
+Wrote table entry (21,8) at offset 820
+Wrote table entry (22,1) at offset 828
+Wrote table entry (23,7) at offset 836
+Wrote table entry (24,7) at offset 844
+Wrote table entry (25,10) at offset 852
+Wrote table entry (26,8) at offset 860
+Wrote table entry (27,11) at offset 868
+Wrote table entry (28,1) at offset 876
+Prior start offset: 852
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 29
+Data len: 36864
+Chunk size: 16
+Num first ocur: 155
+Num shift dupl: 240
+Num prior diffs: 29
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 123
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 282
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 143
+[Debug] Shift dupl vec size: 283
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 143
+Number of shift duplicates : 283
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 30
+Offset for data: 3108
+Number of first occurrence chunks: 165
+Wrote table entry (0,73) at offset 604
+Wrote table entry (1,7) at offset 612
+Wrote table entry (2,7) at offset 620
+Wrote table entry (3,14) at offset 628
+Wrote table entry (4,8) at offset 636
+Wrote table entry (5,5) at offset 644
+Wrote table entry (6,11) at offset 652
+Wrote table entry (7,5) at offset 660
+Wrote table entry (8,6) at offset 668
+Wrote table entry (9,5) at offset 676
+Wrote table entry (10,3) at offset 684
+Wrote table entry (11,6) at offset 692
+Wrote table entry (12,7) at offset 700
+Wrote table entry (13,5) at offset 708
+Wrote table entry (14,3) at offset 716
+Wrote table entry (15,10) at offset 724
+Wrote table entry (16,6) at offset 732
+Wrote table entry (17,7) at offset 740
+Wrote table entry (18,8) at offset 748
+Wrote table entry (19,6) at offset 756
+Wrote table entry (20,6) at offset 764
+Wrote table entry (21,8) at offset 772
+Wrote table entry (22,4) at offset 780
+Wrote table entry (23,10) at offset 788
+Wrote table entry (24,7) at offset 796
+Wrote table entry (25,7) at offset 804
+Wrote table entry (26,16) at offset 812
+Wrote table entry (27,11) at offset 820
+Wrote table entry (28,11) at offset 828
+Wrote table entry (29,1) at offset 836
+Prior start offset: 812
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 30
+Data len: 36864
+Chunk size: 16
+Num first ocur: 143
+Num shift dupl: 283
+Num prior diffs: 30
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 136
+First Occurrence: Num regions of size 2: 19
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 293
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 157
+[Debug] Shift dupl vec size: 293
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 157
+Number of shift duplicates : 293
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 30
+Offset for data: 3244
+Number of first occurrence chunks: 182
+Wrote table entry (0,76) at offset 660
+Wrote table entry (1,8) at offset 668
+Wrote table entry (2,10) at offset 676
+Wrote table entry (3,3) at offset 684
+Wrote table entry (4,5) at offset 692
+Wrote table entry (5,7) at offset 700
+Wrote table entry (6,5) at offset 708
+Wrote table entry (7,5) at offset 716
+Wrote table entry (8,3) at offset 724
+Wrote table entry (9,2) at offset 732
+Wrote table entry (10,8) at offset 740
+Wrote table entry (11,4) at offset 748
+Wrote table entry (12,11) at offset 756
+Wrote table entry (13,9) at offset 764
+Wrote table entry (14,7) at offset 772
+Wrote table entry (15,5) at offset 780
+Wrote table entry (16,4) at offset 788
+Wrote table entry (17,6) at offset 796
+Wrote table entry (18,13) at offset 804
+Wrote table entry (19,13) at offset 812
+Wrote table entry (20,5) at offset 820
+Wrote table entry (21,6) at offset 828
+Wrote table entry (22,9) at offset 836
+Wrote table entry (23,6) at offset 844
+Wrote table entry (24,14) at offset 852
+Wrote table entry (25,9) at offset 860
+Wrote table entry (26,9) at offset 868
+Wrote table entry (27,10) at offset 876
+Wrote table entry (28,9) at offset 884
+Wrote table entry (29,12) at offset 892
+Prior start offset: 868
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 31
+Data len: 36864
+Chunk size: 16
+Num first ocur: 157
+Num shift dupl: 293
+Num prior diffs: 30
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 136
+First Occurrence: Num regions of size 2: 17
+Shift Occurrence: Num regions of size 1: 306
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 153
+[Debug] Shift dupl vec size: 306
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 153
+Number of shift duplicates : 306
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 32
+Offset for data: 3348
+Number of first occurrence chunks: 170
+Wrote table entry (0,86) at offset 644
+Wrote table entry (1,14) at offset 652
+Wrote table entry (2,12) at offset 660
+Wrote table entry (3,4) at offset 668
+Wrote table entry (4,5) at offset 676
+Wrote table entry (5,11) at offset 684
+Wrote table entry (6,9) at offset 692
+Wrote table entry (7,3) at offset 700
+Wrote table entry (8,3) at offset 708
+Wrote table entry (9,4) at offset 716
+Wrote table entry (10,5) at offset 724
+Wrote table entry (11,5) at offset 732
+Wrote table entry (12,3) at offset 740
+Wrote table entry (13,5) at offset 748
+Wrote table entry (14,6) at offset 756
+Wrote table entry (15,8) at offset 764
+Wrote table entry (16,3) at offset 772
+Wrote table entry (17,10) at offset 780
+Wrote table entry (18,4) at offset 788
+Wrote table entry (19,4) at offset 796
+Wrote table entry (20,10) at offset 804
+Wrote table entry (21,10) at offset 812
+Wrote table entry (22,10) at offset 820
+Wrote table entry (23,7) at offset 828
+Wrote table entry (24,10) at offset 836
+Wrote table entry (25,6) at offset 844
+Wrote table entry (26,5) at offset 852
+Wrote table entry (27,10) at offset 860
+Wrote table entry (28,10) at offset 868
+Wrote table entry (29,14) at offset 876
+Wrote table entry (30,8) at offset 884
+Wrote table entry (31,2) at offset 892
+Prior start offset: 868
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 32
+Data len: 36864
+Chunk size: 16
+Num first ocur: 153
+Num shift dupl: 306
+Num prior diffs: 32
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 139
+First Occurrence: Num regions of size 2: 16
+Shift Occurrence: Num regions of size 1: 289
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 155
+[Debug] Shift dupl vec size: 289
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 155
+Number of shift duplicates : 289
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 32
+Offset for data: 3220
+Number of first occurrence chunks: 171
+Wrote table entry (0,70) at offset 652
+Wrote table entry (1,8) at offset 660
+Wrote table entry (2,17) at offset 668
+Wrote table entry (3,3) at offset 676
+Wrote table entry (4,8) at offset 684
+Wrote table entry (5,1) at offset 692
+Wrote table entry (6,7) at offset 700
+Wrote table entry (7,5) at offset 708
+Wrote table entry (8,8) at offset 716
+Wrote table entry (9,4) at offset 724
+Wrote table entry (10,2) at offset 732
+Wrote table entry (11,9) at offset 740
+Wrote table entry (12,8) at offset 748
+Wrote table entry (13,6) at offset 756
+Wrote table entry (14,4) at offset 764
+Wrote table entry (15,10) at offset 772
+Wrote table entry (16,6) at offset 780
+Wrote table entry (17,5) at offset 788
+Wrote table entry (18,9) at offset 796
+Wrote table entry (19,3) at offset 804
+Wrote table entry (20,8) at offset 812
+Wrote table entry (21,8) at offset 820
+Wrote table entry (22,8) at offset 828
+Wrote table entry (23,5) at offset 836
+Wrote table entry (24,9) at offset 844
+Wrote table entry (25,6) at offset 852
+Wrote table entry (26,9) at offset 860
+Wrote table entry (27,10) at offset 868
+Wrote table entry (28,6) at offset 876
+Wrote table entry (29,7) at offset 884
+Wrote table entry (30,11) at offset 892
+Wrote table entry (31,9) at offset 900
+Prior start offset: 876
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 33
+Data len: 36864
+Chunk size: 16
+Num first ocur: 155
+Num shift dupl: 289
+Num prior diffs: 32
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 123
+First Occurrence: Num regions of size 2: 15
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 300
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 140
+[Debug] Shift dupl vec size: 300
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 140
+Number of shift duplicates : 300
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 33
+Offset for data: 3256
+Number of first occurrence chunks: 161
+Wrote table entry (0,85) at offset 592
+Wrote table entry (1,11) at offset 600
+Wrote table entry (2,6) at offset 608
+Wrote table entry (3,7) at offset 616
+Wrote table entry (4,6) at offset 624
+Wrote table entry (5,5) at offset 632
+Wrote table entry (6,13) at offset 640
+Wrote table entry (7,8) at offset 648
+Wrote table entry (8,7) at offset 656
+Wrote table entry (9,5) at offset 664
+Wrote table entry (10,7) at offset 672
+Wrote table entry (11,6) at offset 680
+Wrote table entry (12,3) at offset 688
+Wrote table entry (13,6) at offset 696
+Wrote table entry (14,8) at offset 704
+Wrote table entry (15,2) at offset 712
+Wrote table entry (16,4) at offset 720
+Wrote table entry (17,8) at offset 728
+Wrote table entry (18,5) at offset 736
+Wrote table entry (19,6) at offset 744
+Wrote table entry (20,6) at offset 752
+Wrote table entry (21,12) at offset 760
+Wrote table entry (22,5) at offset 768
+Wrote table entry (23,4) at offset 776
+Wrote table entry (24,8) at offset 784
+Wrote table entry (25,4) at offset 792
+Wrote table entry (26,8) at offset 800
+Wrote table entry (27,10) at offset 808
+Wrote table entry (28,3) at offset 816
+Wrote table entry (29,12) at offset 824
+Wrote table entry (30,7) at offset 832
+Wrote table entry (31,6) at offset 840
+Wrote table entry (32,7) at offset 848
+Prior start offset: 824
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 34
+Data len: 36864
+Chunk size: 16
+Num first ocur: 140
+Num shift dupl: 300
+Num prior diffs: 33
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 123
+First Occurrence: Num regions of size 2: 12
+Shift Occurrence: Num regions of size 1: 302
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 135
+[Debug] Shift dupl vec size: 304
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 135
+Number of shift duplicates : 304
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 35
+Offset for data: 3284
+Number of first occurrence chunks: 147
+Wrote table entry (0,71) at offset 572
+Wrote table entry (1,10) at offset 580
+Wrote table entry (2,8) at offset 588
+Wrote table entry (3,5) at offset 596
+Wrote table entry (4,3) at offset 604
+Wrote table entry (5,8) at offset 612
+Wrote table entry (6,4) at offset 620
+Wrote table entry (7,3) at offset 628
+Wrote table entry (8,3) at offset 636
+Wrote table entry (9,9) at offset 644
+Wrote table entry (10,2) at offset 652
+Wrote table entry (11,11) at offset 660
+Wrote table entry (12,4) at offset 668
+Wrote table entry (13,4) at offset 676
+Wrote table entry (14,4) at offset 684
+Wrote table entry (15,9) at offset 692
+Wrote table entry (16,5) at offset 700
+Wrote table entry (17,8) at offset 708
+Wrote table entry (18,4) at offset 716
+Wrote table entry (19,5) at offset 724
+Wrote table entry (20,6) at offset 732
+Wrote table entry (21,5) at offset 740
+Wrote table entry (22,2) at offset 748
+Wrote table entry (23,6) at offset 756
+Wrote table entry (24,8) at offset 764
+Wrote table entry (25,7) at offset 772
+Wrote table entry (26,13) at offset 780
+Wrote table entry (27,8) at offset 788
+Wrote table entry (28,11) at offset 796
+Wrote table entry (29,11) at offset 804
+Wrote table entry (30,11) at offset 812
+Wrote table entry (31,13) at offset 820
+Wrote table entry (32,8) at offset 828
+Wrote table entry (33,14) at offset 836
+Wrote table entry (35,1) at offset 844
+Prior start offset: 820
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 35
+Data len: 36864
+Chunk size: 16
+Num first ocur: 135
+Num shift dupl: 304
+Num prior diffs: 35
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 112
+First Occurrence: Num regions of size 2: 16
+Shift Occurrence: Num regions of size 1: 294
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 128
+[Debug] Shift dupl vec size: 295
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 128
+Number of shift duplicates : 295
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 35
+Offset for data: 3184
+Number of first occurrence chunks: 144
+Wrote table entry (0,65) at offset 544
+Wrote table entry (1,12) at offset 552
+Wrote table entry (2,9) at offset 560
+Wrote table entry (3,3) at offset 568
+Wrote table entry (4,2) at offset 576
+Wrote table entry (5,6) at offset 584
+Wrote table entry (6,8) at offset 592
+Wrote table entry (7,6) at offset 600
+Wrote table entry (8,8) at offset 608
+Wrote table entry (9,3) at offset 616
+Wrote table entry (10,4) at offset 624
+Wrote table entry (11,7) at offset 632
+Wrote table entry (12,7) at offset 640
+Wrote table entry (13,4) at offset 648
+Wrote table entry (14,8) at offset 656
+Wrote table entry (15,8) at offset 664
+Wrote table entry (16,4) at offset 672
+Wrote table entry (17,4) at offset 680
+Wrote table entry (18,7) at offset 688
+Wrote table entry (19,8) at offset 696
+Wrote table entry (20,7) at offset 704
+Wrote table entry (21,7) at offset 712
+Wrote table entry (22,9) at offset 720
+Wrote table entry (23,9) at offset 728
+Wrote table entry (24,10) at offset 736
+Wrote table entry (25,5) at offset 744
+Wrote table entry (26,4) at offset 752
+Wrote table entry (27,4) at offset 760
+Wrote table entry (28,2) at offset 768
+Wrote table entry (29,8) at offset 776
+Wrote table entry (30,7) at offset 784
+Wrote table entry (31,6) at offset 792
+Wrote table entry (32,10) at offset 800
+Wrote table entry (33,11) at offset 808
+Wrote table entry (34,13) at offset 816
+Prior start offset: 792
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 36
+Data len: 36864
+Chunk size: 16
+Num first ocur: 128
+Num shift dupl: 295
+Num prior diffs: 35
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 116
+First Occurrence: Num regions of size 2: 13
+First Occurrence: Num regions of size 4: 2
+Shift Occurrence: Num regions of size 1: 273
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 131
+[Debug] Shift dupl vec size: 276
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 131
+Number of shift duplicates : 276
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 36
+Offset for data: 3052
+Number of first occurrence chunks: 150
+Wrote table entry (0,64) at offset 556
+Wrote table entry (1,11) at offset 564
+Wrote table entry (2,9) at offset 572
+Wrote table entry (3,2) at offset 580
+Wrote table entry (4,4) at offset 588
+Wrote table entry (5,5) at offset 596
+Wrote table entry (6,4) at offset 604
+Wrote table entry (7,4) at offset 612
+Wrote table entry (8,6) at offset 620
+Wrote table entry (9,6) at offset 628
+Wrote table entry (10,6) at offset 636
+Wrote table entry (11,6) at offset 644
+Wrote table entry (12,5) at offset 652
+Wrote table entry (13,7) at offset 660
+Wrote table entry (14,1) at offset 668
+Wrote table entry (15,5) at offset 676
+Wrote table entry (16,3) at offset 684
+Wrote table entry (17,7) at offset 692
+Wrote table entry (18,6) at offset 700
+Wrote table entry (19,3) at offset 708
+Wrote table entry (20,2) at offset 716
+Wrote table entry (21,2) at offset 724
+Wrote table entry (22,8) at offset 732
+Wrote table entry (23,6) at offset 740
+Wrote table entry (24,4) at offset 748
+Wrote table entry (25,6) at offset 756
+Wrote table entry (26,11) at offset 764
+Wrote table entry (27,4) at offset 772
+Wrote table entry (28,6) at offset 780
+Wrote table entry (29,10) at offset 788
+Wrote table entry (30,9) at offset 796
+Wrote table entry (31,5) at offset 804
+Wrote table entry (32,13) at offset 812
+Wrote table entry (33,13) at offset 820
+Wrote table entry (34,9) at offset 828
+Wrote table entry (35,4) at offset 836
+Prior start offset: 812
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 37
+Data len: 36864
+Chunk size: 16
+Num first ocur: 131
+Num shift dupl: 276
+Num prior diffs: 36
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 110
+First Occurrence: Num regions of size 2: 7
+First Occurrence: Num regions of size 8: 1
+Shift Occurrence: Num regions of size 1: 291
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 118
+[Debug] Shift dupl vec size: 291
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 118
+Number of shift duplicates : 291
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 39
+Offset for data: 3144
+Number of first occurrence chunks: 132
+Wrote table entry (0,58) at offset 504
+Wrote table entry (1,11) at offset 512
+Wrote table entry (2,4) at offset 520
+Wrote table entry (3,5) at offset 528
+Wrote table entry (4,4) at offset 536
+Wrote table entry (5,9) at offset 544
+Wrote table entry (6,5) at offset 552
+Wrote table entry (7,4) at offset 560
+Wrote table entry (8,6) at offset 568
+Wrote table entry (9,3) at offset 576
+Wrote table entry (10,3) at offset 584
+Wrote table entry (11,4) at offset 592
+Wrote table entry (12,5) at offset 600
+Wrote table entry (13,5) at offset 608
+Wrote table entry (14,5) at offset 616
+Wrote table entry (15,6) at offset 624
+Wrote table entry (16,4) at offset 632
+Wrote table entry (17,5) at offset 640
+Wrote table entry (18,3) at offset 648
+Wrote table entry (19,4) at offset 656
+Wrote table entry (20,7) at offset 664
+Wrote table entry (21,4) at offset 672
+Wrote table entry (22,6) at offset 680
+Wrote table entry (23,10) at offset 688
+Wrote table entry (24,6) at offset 696
+Wrote table entry (25,9) at offset 704
+Wrote table entry (26,9) at offset 712
+Wrote table entry (27,9) at offset 720
+Wrote table entry (28,4) at offset 728
+Wrote table entry (29,7) at offset 736
+Wrote table entry (30,7) at offset 744
+Wrote table entry (31,11) at offset 752
+Wrote table entry (32,8) at offset 760
+Wrote table entry (33,8) at offset 768
+Wrote table entry (34,11) at offset 776
+Wrote table entry (35,12) at offset 784
+Wrote table entry (36,8) at offset 792
+Wrote table entry (37,1) at offset 800
+Wrote table entry (38,1) at offset 808
+Prior start offset: 784
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 38
+Data len: 36864
+Chunk size: 16
+Num first ocur: 118
+Num shift dupl: 291
+Num prior diffs: 39
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 100
+First Occurrence: Num regions of size 2: 10
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 254
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 111
+[Debug] Shift dupl vec size: 255
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 111
+Number of shift duplicates : 255
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 38
+Offset for data: 2820
+Number of first occurrence chunks: 124
+Wrote table entry (0,51) at offset 476
+Wrote table entry (1,7) at offset 484
+Wrote table entry (2,5) at offset 492
+Wrote table entry (3,3) at offset 500
+Wrote table entry (4,6) at offset 508
+Wrote table entry (5,4) at offset 516
+Wrote table entry (6,6) at offset 524
+Wrote table entry (7,1) at offset 532
+Wrote table entry (8,3) at offset 540
+Wrote table entry (9,3) at offset 548
+Wrote table entry (10,3) at offset 556
+Wrote table entry (11,6) at offset 564
+Wrote table entry (12,4) at offset 572
+Wrote table entry (13,5) at offset 580
+Wrote table entry (14,3) at offset 588
+Wrote table entry (15,4) at offset 596
+Wrote table entry (16,3) at offset 604
+Wrote table entry (17,3) at offset 612
+Wrote table entry (18,2) at offset 620
+Wrote table entry (19,8) at offset 628
+Wrote table entry (20,5) at offset 636
+Wrote table entry (21,3) at offset 644
+Wrote table entry (22,5) at offset 652
+Wrote table entry (23,5) at offset 660
+Wrote table entry (24,6) at offset 668
+Wrote table entry (25,5) at offset 676
+Wrote table entry (26,4) at offset 684
+Wrote table entry (27,9) at offset 692
+Wrote table entry (28,6) at offset 700
+Wrote table entry (29,12) at offset 708
+Wrote table entry (30,4) at offset 716
+Wrote table entry (31,10) at offset 724
+Wrote table entry (32,8) at offset 732
+Wrote table entry (33,10) at offset 740
+Wrote table entry (34,12) at offset 748
+Wrote table entry (35,4) at offset 756
+Wrote table entry (36,12) at offset 764
+Wrote table entry (37,5) at offset 772
+Prior start offset: 748
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 39
+Data len: 36864
+Chunk size: 16
+Num first ocur: 111
+Num shift dupl: 255
+Num prior diffs: 38
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 112
+First Occurrence: Num regions of size 2: 7
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 290
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 120
+[Debug] Shift dupl vec size: 291
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 120
+Number of shift duplicates : 291
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 39
+Offset for data: 3152
+Number of first occurrence chunks: 130
+Wrote table entry (0,65) at offset 512
+Wrote table entry (1,14) at offset 520
+Wrote table entry (2,2) at offset 528
+Wrote table entry (3,3) at offset 536
+Wrote table entry (4,4) at offset 544
+Wrote table entry (5,6) at offset 552
+Wrote table entry (6,4) at offset 560
+Wrote table entry (7,5) at offset 568
+Wrote table entry (8,6) at offset 576
+Wrote table entry (9,3) at offset 584
+Wrote table entry (10,7) at offset 592
+Wrote table entry (11,3) at offset 600
+Wrote table entry (12,6) at offset 608
+Wrote table entry (13,9) at offset 616
+Wrote table entry (14,8) at offset 624
+Wrote table entry (15,6) at offset 632
+Wrote table entry (16,6) at offset 640
+Wrote table entry (17,3) at offset 648
+Wrote table entry (18,4) at offset 656
+Wrote table entry (19,2) at offset 664
+Wrote table entry (20,6) at offset 672
+Wrote table entry (21,5) at offset 680
+Wrote table entry (22,7) at offset 688
+Wrote table entry (23,4) at offset 696
+Wrote table entry (24,6) at offset 704
+Wrote table entry (25,7) at offset 712
+Wrote table entry (26,5) at offset 720
+Wrote table entry (27,3) at offset 728
+Wrote table entry (28,4) at offset 736
+Wrote table entry (29,6) at offset 744
+Wrote table entry (30,8) at offset 752
+Wrote table entry (31,7) at offset 760
+Wrote table entry (32,7) at offset 768
+Wrote table entry (33,6) at offset 776
+Wrote table entry (34,6) at offset 784
+Wrote table entry (35,7) at offset 792
+Wrote table entry (36,4) at offset 800
+Wrote table entry (37,10) at offset 808
+Wrote table entry (38,17) at offset 816
+Prior start offset: 792
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 40
+Data len: 36864
+Chunk size: 16
+Num first ocur: 120
+Num shift dupl: 291
+Num prior diffs: 39
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 101
+First Occurrence: Num regions of size 2: 12
+Shift Occurrence: Num regions of size 1: 317
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 113
+[Debug] Shift dupl vec size: 317
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 113
+Number of shift duplicates : 317
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 40
+Offset for data: 3340
+Number of first occurrence chunks: 125
+Wrote table entry (0,73) at offset 484
+Wrote table entry (1,6) at offset 492
+Wrote table entry (2,8) at offset 500
+Wrote table entry (3,1) at offset 508
+Wrote table entry (4,5) at offset 516
+Wrote table entry (5,4) at offset 524
+Wrote table entry (6,5) at offset 532
+Wrote table entry (7,3) at offset 540
+Wrote table entry (8,4) at offset 548
+Wrote table entry (9,4) at offset 556
+Wrote table entry (10,4) at offset 564
+Wrote table entry (11,3) at offset 572
+Wrote table entry (12,3) at offset 580
+Wrote table entry (13,4) at offset 588
+Wrote table entry (14,6) at offset 596
+Wrote table entry (15,6) at offset 604
+Wrote table entry (16,2) at offset 612
+Wrote table entry (17,7) at offset 620
+Wrote table entry (18,4) at offset 628
+Wrote table entry (19,4) at offset 636
+Wrote table entry (20,6) at offset 644
+Wrote table entry (21,11) at offset 652
+Wrote table entry (22,5) at offset 660
+Wrote table entry (23,6) at offset 668
+Wrote table entry (24,4) at offset 676
+Wrote table entry (25,8) at offset 684
+Wrote table entry (26,14) at offset 692
+Wrote table entry (27,5) at offset 700
+Wrote table entry (28,8) at offset 708
+Wrote table entry (29,13) at offset 716
+Wrote table entry (30,4) at offset 724
+Wrote table entry (31,5) at offset 732
+Wrote table entry (32,8) at offset 740
+Wrote table entry (33,9) at offset 748
+Wrote table entry (34,10) at offset 756
+Wrote table entry (35,6) at offset 764
+Wrote table entry (36,9) at offset 772
+Wrote table entry (37,9) at offset 780
+Wrote table entry (38,14) at offset 788
+Wrote table entry (39,7) at offset 796
+Prior start offset: 772
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 41
+Data len: 36864
+Chunk size: 16
+Num first ocur: 113
+Num shift dupl: 317
+Num prior diffs: 40
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 95
+First Occurrence: Num regions of size 2: 10
+Shift Occurrence: Num regions of size 1: 314
+Shift Occurrence: Num regions of size 2: 2
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 105
+[Debug] Shift dupl vec size: 316
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 105
+Number of shift duplicates : 316
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 42
+Offset for data: 3316
+Number of first occurrence chunks: 115
+Wrote table entry (0,71) at offset 452
+Wrote table entry (1,11) at offset 460
+Wrote table entry (2,4) at offset 468
+Wrote table entry (3,2) at offset 476
+Wrote table entry (4,9) at offset 484
+Wrote table entry (5,4) at offset 492
+Wrote table entry (6,4) at offset 500
+Wrote table entry (7,4) at offset 508
+Wrote table entry (8,5) at offset 516
+Wrote table entry (9,2) at offset 524
+Wrote table entry (10,2) at offset 532
+Wrote table entry (11,8) at offset 540
+Wrote table entry (12,4) at offset 548
+Wrote table entry (13,4) at offset 556
+Wrote table entry (14,7) at offset 564
+Wrote table entry (15,6) at offset 572
+Wrote table entry (16,5) at offset 580
+Wrote table entry (17,6) at offset 588
+Wrote table entry (18,2) at offset 596
+Wrote table entry (19,2) at offset 604
+Wrote table entry (20,5) at offset 612
+Wrote table entry (21,7) at offset 620
+Wrote table entry (22,2) at offset 628
+Wrote table entry (23,8) at offset 636
+Wrote table entry (24,11) at offset 644
+Wrote table entry (25,5) at offset 652
+Wrote table entry (26,3) at offset 660
+Wrote table entry (27,4) at offset 668
+Wrote table entry (28,7) at offset 676
+Wrote table entry (29,5) at offset 684
+Wrote table entry (30,5) at offset 692
+Wrote table entry (31,12) at offset 700
+Wrote table entry (32,9) at offset 708
+Wrote table entry (33,8) at offset 716
+Wrote table entry (34,6) at offset 724
+Wrote table entry (35,6) at offset 732
+Wrote table entry (36,9) at offset 740
+Wrote table entry (37,13) at offset 748
+Wrote table entry (38,6) at offset 756
+Wrote table entry (39,10) at offset 764
+Wrote table entry (40,12) at offset 772
+Wrote table entry (42,1) at offset 780
+Prior start offset: 756
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 42
+Data len: 36864
+Chunk size: 16
+Num first ocur: 105
+Num shift dupl: 316
+Num prior diffs: 42
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 101
+First Occurrence: Num regions of size 2: 10
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 305
+Shift Occurrence: Num regions of size 2: 1
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 112
+[Debug] Shift dupl vec size: 306
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 112
+Number of shift duplicates : 306
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 42
+Offset for data: 3264
+Number of first occurrence chunks: 125
+Wrote table entry (0,66) at offset 480
+Wrote table entry (1,8) at offset 488
+Wrote table entry (2,7) at offset 496
+Wrote table entry (3,9) at offset 504
+Wrote table entry (4,11) at offset 512
+Wrote table entry (5,4) at offset 520
+Wrote table entry (6,4) at offset 528
+Wrote table entry (7,5) at offset 536
+Wrote table entry (8,2) at offset 544
+Wrote table entry (9,5) at offset 552
+Wrote table entry (10,2) at offset 560
+Wrote table entry (11,4) at offset 568
+Wrote table entry (13,4) at offset 576
+Wrote table entry (14,2) at offset 584
+Wrote table entry (15,8) at offset 592
+Wrote table entry (16,4) at offset 600
+Wrote table entry (17,2) at offset 608
+Wrote table entry (18,6) at offset 616
+Wrote table entry (19,6) at offset 624
+Wrote table entry (20,1) at offset 632
+Wrote table entry (21,6) at offset 640
+Wrote table entry (22,5) at offset 648
+Wrote table entry (23,5) at offset 656
+Wrote table entry (24,3) at offset 664
+Wrote table entry (25,6) at offset 672
+Wrote table entry (26,7) at offset 680
+Wrote table entry (27,10) at offset 688
+Wrote table entry (28,4) at offset 696
+Wrote table entry (29,9) at offset 704
+Wrote table entry (30,3) at offset 712
+Wrote table entry (31,7) at offset 720
+Wrote table entry (32,7) at offset 728
+Wrote table entry (33,8) at offset 736
+Wrote table entry (34,9) at offset 744
+Wrote table entry (35,6) at offset 752
+Wrote table entry (36,9) at offset 760
+Wrote table entry (37,9) at offset 768
+Wrote table entry (38,6) at offset 776
+Wrote table entry (39,8) at offset 784
+Wrote table entry (40,10) at offset 792
+Wrote table entry (41,8) at offset 800
+Wrote table entry (43,1) at offset 808
+Prior start offset: 784
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 43
+Data len: 36864
+Chunk size: 16
+Num first ocur: 112
+Num shift dupl: 306
+Num prior diffs: 42
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 106
+First Occurrence: Num regions of size 2: 8
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 267
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 115
+[Debug] Shift dupl vec size: 267
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 115
+Number of shift duplicates : 267
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 43
+Offset for data: 2972
+Number of first occurrence chunks: 126
+Wrote table entry (0,61) at offset 492
+Wrote table entry (1,3) at offset 500
+Wrote table entry (2,6) at offset 508
+Wrote table entry (3,3) at offset 516
+Wrote table entry (4,3) at offset 524
+Wrote table entry (5,6) at offset 532
+Wrote table entry (6,4) at offset 540
+Wrote table entry (7,3) at offset 548
+Wrote table entry (8,3) at offset 556
+Wrote table entry (9,3) at offset 564
+Wrote table entry (10,5) at offset 572
+Wrote table entry (11,4) at offset 580
+Wrote table entry (12,7) at offset 588
+Wrote table entry (13,4) at offset 596
+Wrote table entry (14,4) at offset 604
+Wrote table entry (15,5) at offset 612
+Wrote table entry (16,4) at offset 620
+Wrote table entry (17,3) at offset 628
+Wrote table entry (18,1) at offset 636
+Wrote table entry (19,4) at offset 644
+Wrote table entry (20,7) at offset 652
+Wrote table entry (21,6) at offset 660
+Wrote table entry (22,3) at offset 668
+Wrote table entry (23,5) at offset 676
+Wrote table entry (24,6) at offset 684
+Wrote table entry (25,3) at offset 692
+Wrote table entry (26,6) at offset 700
+Wrote table entry (27,8) at offset 708
+Wrote table entry (28,1) at offset 716
+Wrote table entry (29,9) at offset 724
+Wrote table entry (30,4) at offset 732
+Wrote table entry (31,4) at offset 740
+Wrote table entry (32,4) at offset 748
+Wrote table entry (33,10) at offset 756
+Wrote table entry (34,6) at offset 764
+Wrote table entry (35,7) at offset 772
+Wrote table entry (36,4) at offset 780
+Wrote table entry (37,6) at offset 788
+Wrote table entry (38,6) at offset 796
+Wrote table entry (39,1) at offset 804
+Wrote table entry (40,9) at offset 812
+Wrote table entry (41,7) at offset 820
+Wrote table entry (42,9) at offset 828
+Prior start offset: 804
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 44
+Data len: 36864
+Chunk size: 16
+Num first ocur: 115
+Num shift dupl: 267
+Num prior diffs: 43
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 83
+First Occurrence: Num regions of size 2: 7
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 290
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 91
+[Debug] Shift dupl vec size: 290
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 91
+Number of shift duplicates : 290
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 45
+Offset for data: 3076
+Number of first occurrence chunks: 101
+Wrote table entry (0,58) at offset 396
+Wrote table entry (1,9) at offset 404
+Wrote table entry (2,11) at offset 412
+Wrote table entry (3,3) at offset 420
+Wrote table entry (4,9) at offset 428
+Wrote table entry (5,1) at offset 436
+Wrote table entry (6,6) at offset 444
+Wrote table entry (7,7) at offset 452
+Wrote table entry (8,6) at offset 460
+Wrote table entry (9,5) at offset 468
+Wrote table entry (10,2) at offset 476
+Wrote table entry (11,5) at offset 484
+Wrote table entry (12,2) at offset 492
+Wrote table entry (13,3) at offset 500
+Wrote table entry (14,4) at offset 508
+Wrote table entry (15,4) at offset 516
+Wrote table entry (16,4) at offset 524
+Wrote table entry (17,3) at offset 532
+Wrote table entry (18,6) at offset 540
+Wrote table entry (19,2) at offset 548
+Wrote table entry (20,4) at offset 556
+Wrote table entry (21,7) at offset 564
+Wrote table entry (22,2) at offset 572
+Wrote table entry (23,2) at offset 580
+Wrote table entry (24,3) at offset 588
+Wrote table entry (25,3) at offset 596
+Wrote table entry (26,6) at offset 604
+Wrote table entry (27,5) at offset 612
+Wrote table entry (28,2) at offset 620
+Wrote table entry (29,10) at offset 628
+Wrote table entry (30,7) at offset 636
+Wrote table entry (31,9) at offset 644
+Wrote table entry (32,2) at offset 652
+Wrote table entry (33,2) at offset 660
+Wrote table entry (34,2) at offset 668
+Wrote table entry (35,7) at offset 676
+Wrote table entry (36,10) at offset 684
+Wrote table entry (37,10) at offset 692
+Wrote table entry (38,9) at offset 700
+Wrote table entry (39,5) at offset 708
+Wrote table entry (40,6) at offset 716
+Wrote table entry (41,8) at offset 724
+Wrote table entry (42,8) at offset 732
+Wrote table entry (43,9) at offset 740
+Wrote table entry (44,2) at offset 748
+Prior start offset: 724
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 45
+Data len: 36864
+Chunk size: 16
+Num first ocur: 91
+Num shift dupl: 290
+Num prior diffs: 45
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 88
+First Occurrence: Num regions of size 2: 4
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 302
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 93
+[Debug] Shift dupl vec size: 302
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 93
+Number of shift duplicates : 302
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 46
+Offset for data: 3188
+Number of first occurrence chunks: 100
+Wrote table entry (0,65) at offset 404
+Wrote table entry (1,12) at offset 412
+Wrote table entry (2,9) at offset 420
+Wrote table entry (3,6) at offset 428
+Wrote table entry (4,3) at offset 436
+Wrote table entry (5,4) at offset 444
+Wrote table entry (6,4) at offset 452
+Wrote table entry (7,3) at offset 460
+Wrote table entry (8,4) at offset 468
+Wrote table entry (9,2) at offset 476
+Wrote table entry (10,4) at offset 484
+Wrote table entry (11,6) at offset 492
+Wrote table entry (12,5) at offset 500
+Wrote table entry (13,6) at offset 508
+Wrote table entry (14,7) at offset 516
+Wrote table entry (15,7) at offset 524
+Wrote table entry (16,7) at offset 532
+Wrote table entry (17,2) at offset 540
+Wrote table entry (18,2) at offset 548
+Wrote table entry (19,5) at offset 556
+Wrote table entry (20,3) at offset 564
+Wrote table entry (21,3) at offset 572
+Wrote table entry (22,5) at offset 580
+Wrote table entry (23,6) at offset 588
+Wrote table entry (24,3) at offset 596
+Wrote table entry (25,6) at offset 604
+Wrote table entry (26,4) at offset 612
+Wrote table entry (27,10) at offset 620
+Wrote table entry (28,1) at offset 628
+Wrote table entry (29,5) at offset 636
+Wrote table entry (30,5) at offset 644
+Wrote table entry (31,6) at offset 652
+Wrote table entry (32,10) at offset 660
+Wrote table entry (33,5) at offset 668
+Wrote table entry (34,6) at offset 676
+Wrote table entry (35,8) at offset 684
+Wrote table entry (36,6) at offset 692
+Wrote table entry (37,6) at offset 700
+Wrote table entry (38,5) at offset 708
+Wrote table entry (39,3) at offset 716
+Wrote table entry (40,7) at offset 724
+Wrote table entry (41,5) at offset 732
+Wrote table entry (42,9) at offset 740
+Wrote table entry (43,4) at offset 748
+Wrote table entry (44,6) at offset 756
+Wrote table entry (45,2) at offset 764
+Prior start offset: 740
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 46
+Data len: 36864
+Chunk size: 16
+Num first ocur: 93
+Num shift dupl: 302
+Num prior diffs: 46
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 92
+First Occurrence: Num regions of size 2: 6
+First Occurrence: Num regions of size 4: 1
+Shift Occurrence: Num regions of size 1: 302
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 99
+[Debug] Shift dupl vec size: 302
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 99
+Number of shift duplicates : 302
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 46
+Offset for data: 3212
+Number of first occurrence chunks: 108
+Wrote table entry (0,53) at offset 428
+Wrote table entry (1,10) at offset 436
+Wrote table entry (2,11) at offset 444
+Wrote table entry (3,5) at offset 452
+Wrote table entry (4,4) at offset 460
+Wrote table entry (5,3) at offset 468
+Wrote table entry (6,3) at offset 476
+Wrote table entry (7,6) at offset 484
+Wrote table entry (8,4) at offset 492
+Wrote table entry (9,4) at offset 500
+Wrote table entry (10,6) at offset 508
+Wrote table entry (11,5) at offset 516
+Wrote table entry (12,3) at offset 524
+Wrote table entry (13,5) at offset 532
+Wrote table entry (14,6) at offset 540
+Wrote table entry (15,8) at offset 548
+Wrote table entry (16,4) at offset 556
+Wrote table entry (17,5) at offset 564
+Wrote table entry (18,1) at offset 572
+Wrote table entry (19,4) at offset 580
+Wrote table entry (20,4) at offset 588
+Wrote table entry (21,3) at offset 596
+Wrote table entry (22,2) at offset 604
+Wrote table entry (23,4) at offset 612
+Wrote table entry (24,6) at offset 620
+Wrote table entry (25,3) at offset 628
+Wrote table entry (26,6) at offset 636
+Wrote table entry (27,8) at offset 644
+Wrote table entry (28,2) at offset 652
+Wrote table entry (29,4) at offset 660
+Wrote table entry (30,6) at offset 668
+Wrote table entry (31,3) at offset 676
+Wrote table entry (32,3) at offset 684
+Wrote table entry (33,9) at offset 692
+Wrote table entry (34,7) at offset 700
+Wrote table entry (35,4) at offset 708
+Wrote table entry (36,4) at offset 716
+Wrote table entry (37,4) at offset 724
+Wrote table entry (38,3) at offset 732
+Wrote table entry (39,7) at offset 740
+Wrote table entry (40,10) at offset 748
+Wrote table entry (41,8) at offset 756
+Wrote table entry (42,8) at offset 764
+Wrote table entry (43,15) at offset 772
+Wrote table entry (44,9) at offset 780
+Wrote table entry (45,10) at offset 788
+Prior start offset: 764
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 47
+Data len: 36864
+Chunk size: 16
+Num first ocur: 99
+Num shift dupl: 302
+Num prior diffs: 46
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 71
+First Occurrence: Num regions of size 2: 7
+Shift Occurrence: Num regions of size 1: 333
+Shift Occurrence: Num regions of size 2: 3
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 78
+[Debug] Shift dupl vec size: 336
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 78
+Number of shift duplicates : 336
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 47
+Offset for data: 3408
+Number of first occurrence chunks: 85
+Wrote table entry (0,70) at offset 344
+Wrote table entry (1,11) at offset 352
+Wrote table entry (2,5) at offset 360
+Wrote table entry (3,7) at offset 368
+Wrote table entry (4,7) at offset 376
+Wrote table entry (5,3) at offset 384
+Wrote table entry (6,7) at offset 392
+Wrote table entry (7,3) at offset 400
+Wrote table entry (8,3) at offset 408
+Wrote table entry (9,2) at offset 416
+Wrote table entry (10,2) at offset 424
+Wrote table entry (11,6) at offset 432
+Wrote table entry (12,4) at offset 440
+Wrote table entry (13,3) at offset 448
+Wrote table entry (14,6) at offset 456
+Wrote table entry (15,5) at offset 464
+Wrote table entry (16,6) at offset 472
+Wrote table entry (17,5) at offset 480
+Wrote table entry (18,3) at offset 488
+Wrote table entry (19,9) at offset 496
+Wrote table entry (20,4) at offset 504
+Wrote table entry (21,4) at offset 512
+Wrote table entry (22,2) at offset 520
+Wrote table entry (23,6) at offset 528
+Wrote table entry (24,8) at offset 536
+Wrote table entry (25,6) at offset 544
+Wrote table entry (26,1) at offset 552
+Wrote table entry (27,4) at offset 560
+Wrote table entry (28,5) at offset 568
+Wrote table entry (29,2) at offset 576
+Wrote table entry (30,7) at offset 584
+Wrote table entry (31,10) at offset 592
+Wrote table entry (32,8) at offset 600
+Wrote table entry (33,2) at offset 608
+Wrote table entry (34,7) at offset 616
+Wrote table entry (35,11) at offset 624
+Wrote table entry (36,7) at offset 632
+Wrote table entry (37,4) at offset 640
+Wrote table entry (38,4) at offset 648
+Wrote table entry (39,5) at offset 656
+Wrote table entry (40,6) at offset 664
+Wrote table entry (41,16) at offset 672
+Wrote table entry (42,7) at offset 680
+Wrote table entry (43,2) at offset 688
+Wrote table entry (44,7) at offset 696
+Wrote table entry (45,12) at offset 704
+Wrote table entry (46,12) at offset 712
+Prior start offset: 688
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 48
+Data len: 36864
+Chunk size: 16
+Num first ocur: 78
+Num shift dupl: 336
+Num prior diffs: 47
+-----------------------Copy-----------------------
+==================================================
+==================================================
+----------------------Setup-----------------------
+----------------------Dedup-----------------------
+First Occurrence: Num regions of size 1: 98
+First Occurrence: Num regions of size 2: 9
+Shift Occurrence: Num regions of size 1: 308
+[Debug] Num chunks: 2304
+[Debug] First occur vec size: 107
+[Debug] Shift dupl vec size: 308
+[Debug] Bitmap size: 2304
+---------------------Collect----------------------
+Setup counters
+Number of first occurrences: 107
+Number of shift duplicates : 308
+Count distinct bytes
+Setup diff bitset
+Count repeat bytes
+Collect prior counter
+Number of diffs needed: 48
+Offset for data: 3308
+Number of first occurrence chunks: 116
+Wrote table entry (0,61) at offset 460
+Wrote table entry (1,5) at offset 468
+Wrote table entry (2,7) at offset 476
+Wrote table entry (3,4) at offset 484
+Wrote table entry (4,7) at offset 492
+Wrote table entry (5,3) at offset 500
+Wrote table entry (6,5) at offset 508
+Wrote table entry (7,7) at offset 516
+Wrote table entry (8,4) at offset 524
+Wrote table entry (9,1) at offset 532
+Wrote table entry (10,5) at offset 540
+Wrote table entry (11,5) at offset 548
+Wrote table entry (12,3) at offset 556
+Wrote table entry (13,3) at offset 564
+Wrote table entry (15,8) at offset 572
+Wrote table entry (16,5) at offset 580
+Wrote table entry (17,7) at offset 588
+Wrote table entry (18,1) at offset 596
+Wrote table entry (19,6) at offset 604
+Wrote table entry (20,3) at offset 612
+Wrote table entry (21,6) at offset 620
+Wrote table entry (22,3) at offset 628
+Wrote table entry (23,4) at offset 636
+Wrote table entry (24,3) at offset 644
+Wrote table entry (25,2) at offset 652
+Wrote table entry (26,3) at offset 660
+Wrote table entry (27,5) at offset 668
+Wrote table entry (28,6) at offset 676
+Wrote table entry (29,6) at offset 684
+Wrote table entry (30,3) at offset 692
+Wrote table entry (31,4) at offset 700
+Wrote table entry (32,3) at offset 708
+Wrote table entry (33,6) at offset 716
+Wrote table entry (34,8) at offset 724
+Wrote table entry (35,4) at offset 732
+Wrote table entry (36,9) at offset 740
+Wrote table entry (37,6) at offset 748
+Wrote table entry (38,5) at offset 756
+Wrote table entry (39,6) at offset 764
+Wrote table entry (40,5) at offset 772
+Wrote table entry (41,3) at offset 780
+Wrote table entry (42,9) at offset 788
+Wrote table entry (43,6) at offset 796
+Wrote table entry (44,12) at offset 804
+Wrote table entry (45,8) at offset 812
+Wrote table entry (46,7) at offset 820
+Wrote table entry (47,15) at offset 828
+Wrote table entry (48,1) at offset 836
+Prior start offset: 812
+Wrote shared metadata
+Finished collecting data
+Ref ID: 0
+Diff ID: 49
+Data len: 36864
+Chunk size: 16
+Num first ocur: 107
+Num shift dupl: 308
+Num prior diffs: 48
+-----------------------Copy-----------------------
+==================================================
+Done finalizing Kokkos
+/home/zmalk/Research/dynamic_chunking/2d-sim/scripts

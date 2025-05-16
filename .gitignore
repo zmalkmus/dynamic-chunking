@@ -1,3 +1,5 @@
 gpu-dedup/
 miniAMR/
 dump*
+*.dat
+*.incr_diff
